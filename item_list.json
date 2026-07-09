@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:43:18.400+09:00",
+  "updated": "2026-07-09T14:44:05.608+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -405,7 +405,7 @@
       "name": "신관의 지팡이",
       "grade": "희귀",
       "grade_color": "파랑",
-      "grade_class": "rare",
+      "grade_class": "grade-rare",
       "attack": "",
       "small_attack": "9",
       "big_attack": "9",
@@ -417,8 +417,8 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&",
       "author": "seven_sv_777",
       "discord_message_id": "1524637342827282482",
-      "updated_at": "2026-07-09T14:43:18.396+09:00",
-      "created_at": "2026-07-09T14:43:18.396+09:00"
+      "updated_at": "2026-07-09T14:43:18.402+09:00",
+      "created_at": "2026-07-09T14:43:18.402+09:00"
     },
     {
       "id": "달의 장궁",
@@ -434,13 +434,13 @@
       "defense": "",
       "option": "",
       "classes": "요정",
-      "drop": "",
+      "drop": "테스트",
       "note": "",
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&",
       "author": "seven_sv_777",
       "discord_message_id": "1524637747602788402",
-      "updated_at": "2026-07-09T14:27:40.395+09:00",
-      "created_at": "2026-07-09T14:27:40.395+09:00"
+      "updated_at": "2026-07-09T14:44:05.605+09:00",
+      "created_at": "2026-07-09T14:44:05.605+09:00"
     }
   ]
 }
