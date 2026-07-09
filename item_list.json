@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:41:47.775+09:00",
+  "updated": "2026-07-09T13:42:56.973+09:00",
   "items": [
     {
       "id": "할파스",
@@ -41,6 +41,26 @@
       "discord_message_id": "1524635296199872574",
       "updated_at": "2026-07-09T13:41:47.773+09:00",
       "created_at": "2026-07-09T13:36:21.972+09:00"
+    },
+    {
+      "id": "무관의 장검",
+      "category": "무기",
+      "type": "장검",
+      "name": "무관의 장검",
+      "grade": "희귀",
+      "attack": "",
+      "small_attack": "13",
+      "big_attack": "10",
+      "defense": "",
+      "option": "",
+      "classes": "군주,기사",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524636952618598493",
+      "updated_at": "2026-07-09T13:42:56.970+09:00",
+      "created_at": "2026-07-09T13:42:56.970+09:00"
     },
     {
       "id": "장검",
