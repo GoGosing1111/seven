@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:03:53.834+09:00",
+  "updated": "2026-07-09T23:04:02.887+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -441,6 +441,28 @@
       "discord_message_id": "1524776887107457034",
       "updated_at": "2026-07-09T22:58:59.979+09:00",
       "created_at": "2026-07-09T22:58:59.979+09:00"
+    },
+    {
+      "id": "안타라스의 마력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "안타라스의 마력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778157155029196/3-15_.png?ex=6a50fbd1&is=6a4faa51&hm=abc4dd58bbc501d924871db3e368f32856a6810ab47959f8d09e1b857703833c&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524778157474058271",
+      "updated_at": "2026-07-09T23:04:02.885+09:00",
+      "created_at": "2026-07-09T23:04:02.885+09:00"
     },
     {
       "id": "안타라스의 예지력",
