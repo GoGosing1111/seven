@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:47:34.626+09:00",
+  "updated": "2026-07-09T14:48:22.048+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -23,6 +23,28 @@
       "discord_message_id": "1524652781812715643",
       "updated_at": "2026-07-09T14:47:34.615+09:00",
       "created_at": "2026-07-09T14:47:34.615+09:00"
+    },
+    {
+      "id": "진명황의 집행검",
+      "category": "무기",
+      "type": "양손검",
+      "name": "진명황의 집행검",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "35",
+      "big_attack": "46",
+      "defense": "",
+      "option": "",
+      "classes": "기사",
+      "drop": "테스트",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524653415802732636/4-3_.gif?ex=6a5087a5&is=6a4f3625&hm=bfcf987f2d59de277a34db1712165c13597c2aff99d2fb95d1b237b942f4e9a7&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524653416121372682",
+      "updated_at": "2026-07-09T14:48:22.045+09:00",
+      "created_at": "2026-07-09T14:48:22.039+09:00"
     },
     {
       "id": "드래곤 슬레이어",
