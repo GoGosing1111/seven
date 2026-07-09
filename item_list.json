@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:08:07.405+09:00",
+  "updated": "2026-07-09T14:09:56.721+09:00",
   "items": [
     {
       "id": "할파스",
@@ -243,6 +243,28 @@
       "discord_message_id": "1524642088199913612",
       "updated_at": "2026-07-09T14:03:21.226+09:00",
       "created_at": "2026-07-09T14:03:21.226+09:00"
+    },
+    {
+      "id": "드래곤 슬레이어",
+      "category": "무기",
+      "type": "장검",
+      "name": "드래곤 슬레이어",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "myth",
+      "attack": "",
+      "small_attack": "33",
+      "big_attack": "40",
+      "defense": "",
+      "option": "",
+      "classes": "군주",
+      "drop": "테스트",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524643746627584081/4-2_.gif?ex=6a507ea3&is=6a4f2d23&hm=01840179a8a0e90c74e4fc1a51a6a6a77bc954d25a39df999f4d5dd83802be47&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524643746895892530",
+      "updated_at": "2026-07-09T14:09:56.719+09:00",
+      "created_at": "2026-07-09T14:09:56.719+09:00"
     },
     {
       "id": "무관의 장검",
