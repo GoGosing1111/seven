@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:30:15.060+09:00",
+  "updated": "2026-07-09T19:39:51.183+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -265,6 +265,28 @@
       "discord_message_id": "1524642934685696010",
       "updated_at": "2026-07-09T19:30:15.047+09:00",
       "created_at": "2026-07-09T19:30:15.047+09:00"
+    },
+    {
+      "id": "명법군왕의 투구",
+      "category": "방어구",
+      "type": "투구",
+      "name": "명법군왕의 투구",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "9",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726769997840404/3_.png?ex=6a50cbf6&is=6a4f7a76&hm=8fd531ee8fe90ab781e37b6f65956444436b29674cee28bd1e2e76c365a2f605&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524726770438246440",
+      "updated_at": "2026-07-09T19:39:51.181+09:00",
+      "created_at": "2026-07-09T19:39:51.181+09:00"
     },
     {
       "id": "오리하루콘 단검",
