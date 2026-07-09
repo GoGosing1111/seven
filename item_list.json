@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T15:46:13.434+09:00",
+  "updated": "2026-07-09T19:22:26.287+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -531,6 +531,28 @@
       "created_at": "2026-07-09T14:47:34.614+09:00"
     },
     {
+      "id": "기사단의 망토",
+      "category": "방어구",
+      "type": "망토",
+      "name": "기사단의 망토",
+      "grade": "희귀",
+      "grade_color": "파랑",
+      "grade_class": "grade-rare",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "3",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524722387306811444/1-1_.png?ex=6a50c7e1&is=6a4f7661&hm=bf47db556981903348642f16fa600078f6139ba1b1f14c826846782a9390f8b0&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524722387604733972",
+      "updated_at": "2026-07-09T19:22:26.279+09:00",
+      "created_at": "2026-07-09T19:22:26.279+09:00"
+    },
+    {
       "id": "기사단의 투구",
       "category": "방어구",
       "type": "투구",
@@ -549,8 +571,8 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524667563118821506/1_.png?ex=6a5094d2&is=6a4f4352&hm=bf0eb47178d55f944697084ea16fc19a0a40155cb2ffa714e49bdceb29fac063&",
       "author": "seven_sv_777",
       "discord_message_id": "1524667563378737243",
-      "updated_at": "2026-07-09T15:46:13.432+09:00",
-      "created_at": "2026-07-09T15:46:13.432+09:00"
+      "updated_at": "2026-07-09T15:46:13.434+09:00",
+      "created_at": "2026-07-09T15:46:13.434+09:00"
     }
   ]
 }
