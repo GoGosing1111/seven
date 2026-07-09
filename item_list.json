@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:49:00.909+09:00",
+  "updated": "2026-07-09T14:49:26.869+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -87,8 +87,30 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524653578919346176/4-4_.gif?ex=6a5087cb&is=6a4f364b&hm=5d0e3893981c67f7f350a6a4a3a7c8f51291cde92d19aa8a90f588b2c851a1b0&",
       "author": "seven_sv_777",
       "discord_message_id": "1524653579216879708",
-      "updated_at": "2026-07-09T14:49:00.906+09:00",
+      "updated_at": "2026-07-09T14:49:00.916+09:00",
       "created_at": "2026-07-09T14:49:00.906+09:00"
+    },
+    {
+      "id": "가이아의 격노",
+      "category": "무기",
+      "type": "활",
+      "name": "가이아의 격노",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "6",
+      "big_attack": "6",
+      "defense": "",
+      "option": "",
+      "classes": "요정",
+      "drop": "테스트",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524653687690104982/4-5_.gif?ex=6a5087e5&is=6a4f3665&hm=5ece409a40dbbc803cee96940117e5fc86ee99674a1715750f49a573049f49f8&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524653687970988042",
+      "updated_at": "2026-07-09T14:49:26.866+09:00",
+      "created_at": "2026-07-09T14:49:26.866+09:00"
     },
     {
       "id": "아스테어의 단검",
