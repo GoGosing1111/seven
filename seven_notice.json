@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:30:15.066+09:00",
+  "updated": "2026-07-10T00:56:02.853+09:00",
   "notice": [
     {
       "id": "1524431281780429053",
@@ -24,6 +24,734 @@
   "hunt": [],
   "boss": [],
   "item": [
+    {
+      "id": "1524786403869720596",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 실렌의 완력\n방어력 : 16\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-7_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786403530248232/4-7_.gif?ex=6a51037f&is=6a4fb1ff&hm=db8d61f249564bfcdbdd23732a56aaeb6ddfed49ef9624a61f84a1a8517e0cc5&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524786403530248232/4-7_.gif?ex=6a51037f&is=6a4fb1ff&hm=db8d61f249564bfcdbdd23732a56aaeb6ddfed49ef9624a61f84a1a8517e0cc5&",
+          "content_type": "image/gif",
+          "size": 195855
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524786403530248232/4-7_.gif?ex=6a51037f&is=6a4fb1ff&hm=db8d61f249564bfcdbdd23732a56aaeb6ddfed49ef9624a61f84a1a8517e0cc5&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786403530248232/4-7_.gif?ex=6a51037f&is=6a4fb1ff&hm=db8d61f249564bfcdbdd23732a56aaeb6ddfed49ef9624a61f84a1a8517e0cc5&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524786403869720596",
+      "created_at": "2026-07-09T23:36:47.844+09:00",
+      "updated_at": "2026-07-09T23:36:47.844+09:00"
+    },
+    {
+      "id": "1524786255630438462",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 부츠\n이름 : 에오딘의 부츠\n방어력 : 9\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-6_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786255332905052/4-6_.gif?ex=6a51035c&is=6a4fb1dc&hm=34b603b9a96c185c037b524474496103d012361d0592b36db3156058f5dd59a9&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524786255332905052/4-6_.gif?ex=6a51035c&is=6a4fb1dc&hm=34b603b9a96c185c037b524474496103d012361d0592b36db3156058f5dd59a9&",
+          "content_type": "image/gif",
+          "size": 205167
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524786255332905052/4-6_.gif?ex=6a51035c&is=6a4fb1dc&hm=34b603b9a96c185c037b524474496103d012361d0592b36db3156058f5dd59a9&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786255332905052/4-6_.gif?ex=6a51035c&is=6a4fb1dc&hm=34b603b9a96c185c037b524474496103d012361d0592b36db3156058f5dd59a9&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524786255630438462",
+      "created_at": "2026-07-09T23:36:12.501+09:00",
+      "updated_at": "2026-07-09T23:36:12.501+09:00"
+    },
+    {
+      "id": "1524785551008600154",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 장갑\n이름 : 에오딘의 장갑\n방어력 : 6\n사용클래스 : 요정\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-5_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524785550610010283/4-5_.gif?ex=6a5102b4&is=6a4fb134&hm=f11e4b1ecc42e2952c2d5e1a518b9b47eb9a0e645abcf634d96c3f5f275ffc21&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524785550610010283/4-5_.gif?ex=6a5102b4&is=6a4fb134&hm=f11e4b1ecc42e2952c2d5e1a518b9b47eb9a0e645abcf634d96c3f5f275ffc21&",
+          "content_type": "image/gif",
+          "size": 504506
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524785550610010283/4-5_.gif?ex=6a5102b4&is=6a4fb134&hm=f11e4b1ecc42e2952c2d5e1a518b9b47eb9a0e645abcf634d96c3f5f275ffc21&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524785550610010283/4-5_.gif?ex=6a5102b4&is=6a4fb134&hm=f11e4b1ecc42e2952c2d5e1a518b9b47eb9a0e645abcf634d96c3f5f275ffc21&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524785551008600154",
+      "created_at": "2026-07-09T23:33:24.506+09:00",
+      "updated_at": "2026-07-09T23:33:24.506+09:00"
+    },
+    {
+      "id": "1524784580962418718",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 장갑\n이름 : 군터의 응징\n방어력 : 8\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-4_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524784580479942686/4-4_.gif?ex=6a5101cd&is=6a4fb04d&hm=f38533866facc0f6d53b5659b28d08f170b6be3edb1eafe07131f6802bc87bae&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524784580479942686/4-4_.gif?ex=6a5101cd&is=6a4fb04d&hm=f38533866facc0f6d53b5659b28d08f170b6be3edb1eafe07131f6802bc87bae&",
+          "content_type": "image/gif",
+          "size": 96078
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524784580479942686/4-4_.gif?ex=6a5101cd&is=6a4fb04d&hm=f38533866facc0f6d53b5659b28d08f170b6be3edb1eafe07131f6802bc87bae&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524784580479942686/4-4_.gif?ex=6a5101cd&is=6a4fb04d&hm=f38533866facc0f6d53b5659b28d08f170b6be3edb1eafe07131f6802bc87bae&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524784580962418718",
+      "created_at": "2026-07-09T23:29:33.229+09:00",
+      "updated_at": "2026-07-09T23:29:33.229+09:00"
+    },
+    {
+      "id": "1524779701045039105",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 망토\n이름 : 발록의 핏빛 망토\n방어력 : 14\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-3_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779700747108442/4-3_.gif?ex=6a50fd41&is=6a4fabc1&hm=260692e22ee8c595a713438250aafaf4fff6b5a111b0a2ecf51864549ebc8580&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524779700747108442/4-3_.gif?ex=6a50fd41&is=6a4fabc1&hm=260692e22ee8c595a713438250aafaf4fff6b5a111b0a2ecf51864549ebc8580&",
+          "content_type": "image/gif",
+          "size": 179985
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524779700747108442/4-3_.gif?ex=6a50fd41&is=6a4fabc1&hm=260692e22ee8c595a713438250aafaf4fff6b5a111b0a2ecf51864549ebc8580&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779700747108442/4-3_.gif?ex=6a50fd41&is=6a4fabc1&hm=260692e22ee8c595a713438250aafaf4fff6b5a111b0a2ecf51864549ebc8580&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524779701045039105",
+      "created_at": "2026-07-09T23:10:09.766+09:00",
+      "updated_at": "2026-07-09T23:10:09.766+09:00"
+    },
+    {
+      "id": "1524779572778762330",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 망토\n이름 : 로웬델의 망토\n방어력 : 12\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-2_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779572376244374/4-2_.gif?ex=6a50fd23&is=6a4faba3&hm=ad3e319d737539a934bc6cbfb96bc0202c33f6759aed2f4aad05854f24f103a3&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524779572376244374/4-2_.gif?ex=6a50fd23&is=6a4faba3&hm=ad3e319d737539a934bc6cbfb96bc0202c33f6759aed2f4aad05854f24f103a3&",
+          "content_type": "image/gif",
+          "size": 167530
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524779572376244374/4-2_.gif?ex=6a50fd23&is=6a4faba3&hm=ad3e319d737539a934bc6cbfb96bc0202c33f6759aed2f4aad05854f24f103a3&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779572376244374/4-2_.gif?ex=6a50fd23&is=6a4faba3&hm=ad3e319d737539a934bc6cbfb96bc0202c33f6759aed2f4aad05854f24f103a3&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524779572778762330",
+      "created_at": "2026-07-09T23:09:39.185+09:00",
+      "updated_at": "2026-07-09T23:09:39.185+09:00"
+    },
+    {
+      "id": "1524779072494899200",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 투구\n이름 : 발록의 핏빛 투구\n방어력 : 13\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4-1_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779071983321188/4-1_.gif?ex=6a50fcab&is=6a4fab2b&hm=2d1fb3e872803fca765dadf7a518bbebf3e8c107be09dbbdb0b00fa14c4d5feb&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524779071983321188/4-1_.gif?ex=6a50fcab&is=6a4fab2b&hm=2d1fb3e872803fca765dadf7a518bbebf3e8c107be09dbbdb0b00fa14c4d5feb&",
+          "content_type": "image/gif",
+          "size": 183364
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524779071983321188/4-1_.gif?ex=6a50fcab&is=6a4fab2b&hm=2d1fb3e872803fca765dadf7a518bbebf3e8c107be09dbbdb0b00fa14c4d5feb&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779071983321188/4-1_.gif?ex=6a50fcab&is=6a4fab2b&hm=2d1fb3e872803fca765dadf7a518bbebf3e8c107be09dbbdb0b00fa14c4d5feb&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524779072494899200",
+      "created_at": "2026-07-09T23:07:39.908+09:00",
+      "updated_at": "2026-07-09T23:07:39.908+09:00"
+    },
+    {
+      "id": "1524778964923584613",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 투구\n이름 : 할파스의 투구\n방어력 : 12\n사용클래스 : 전체\n등급 : 신화\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "4_.gif",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778964629979136/4_.gif?ex=6a50fc92&is=6a4fab12&hm=97be540dbac9c447b13f1eed20221022d3e9df5daca501b1ce1c5daeb5b8e374&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778964629979136/4_.gif?ex=6a50fc92&is=6a4fab12&hm=97be540dbac9c447b13f1eed20221022d3e9df5daca501b1ce1c5daeb5b8e374&",
+          "content_type": "image/gif",
+          "size": 154835
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778964629979136/4_.gif?ex=6a50fc92&is=6a4fab12&hm=97be540dbac9c447b13f1eed20221022d3e9df5daca501b1ce1c5daeb5b8e374&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778964629979136/4_.gif?ex=6a50fc92&is=6a4fab12&hm=97be540dbac9c447b13f1eed20221022d3e9df5daca501b1ce1c5daeb5b8e374&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778964923584613",
+      "created_at": "2026-07-09T23:07:14.261+09:00",
+      "updated_at": "2026-07-09T23:07:14.261+09:00"
+    },
+    {
+      "id": "1524778374386679920",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 파푸리온의 마력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-19_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778374092951702/3-19_.png?ex=6a50fc05&is=6a4faa85&hm=566efa88b13d512324c4cc9899e673874f7385e7e7081aa73b4b57c772d3b319&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778374092951702/3-19_.png?ex=6a50fc05&is=6a4faa85&hm=566efa88b13d512324c4cc9899e673874f7385e7e7081aa73b4b57c772d3b319&",
+          "content_type": "image/png",
+          "size": 21586
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778374092951702/3-19_.png?ex=6a50fc05&is=6a4faa85&hm=566efa88b13d512324c4cc9899e673874f7385e7e7081aa73b4b57c772d3b319&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778374092951702/3-19_.png?ex=6a50fc05&is=6a4faa85&hm=566efa88b13d512324c4cc9899e673874f7385e7e7081aa73b4b57c772d3b319&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778374386679920",
+      "created_at": "2026-07-09T23:04:53.466+09:00",
+      "updated_at": "2026-07-09T23:04:53.466+09:00"
+    },
+    {
+      "id": "1524778330564595772",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 파푸리온의 인내력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-18_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778329969000679/3-18_.png?ex=6a50fbfa&is=6a4faa7a&hm=cbd25cf27925d19bba28449a3f805e5057c84908487f83dd0534a5bf5bcb7263&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778329969000679/3-18_.png?ex=6a50fbfa&is=6a4faa7a&hm=cbd25cf27925d19bba28449a3f805e5057c84908487f83dd0534a5bf5bcb7263&",
+          "content_type": "image/png",
+          "size": 22228
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778329969000679/3-18_.png?ex=6a50fbfa&is=6a4faa7a&hm=cbd25cf27925d19bba28449a3f805e5057c84908487f83dd0534a5bf5bcb7263&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778329969000679/3-18_.png?ex=6a50fbfa&is=6a4faa7a&hm=cbd25cf27925d19bba28449a3f805e5057c84908487f83dd0534a5bf5bcb7263&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778330564595772",
+      "created_at": "2026-07-09T23:04:43.018+09:00",
+      "updated_at": "2026-07-09T23:04:43.018+09:00"
+    },
+    {
+      "id": "1524778287598014656",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 파푸리온의 완력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-17_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778287358935151/3-17_.png?ex=6a50fbf0&is=6a4faa70&hm=a993aca0aa67fab2ed81b5afd0bf9c42c352d3fbfb124b361abda13d158a143c&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778287358935151/3-17_.png?ex=6a50fbf0&is=6a4faa70&hm=a993aca0aa67fab2ed81b5afd0bf9c42c352d3fbfb124b361abda13d158a143c&",
+          "content_type": "image/png",
+          "size": 24010
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778287358935151/3-17_.png?ex=6a50fbf0&is=6a4faa70&hm=a993aca0aa67fab2ed81b5afd0bf9c42c352d3fbfb124b361abda13d158a143c&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778287358935151/3-17_.png?ex=6a50fbf0&is=6a4faa70&hm=a993aca0aa67fab2ed81b5afd0bf9c42c352d3fbfb124b361abda13d158a143c&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778287598014656",
+      "created_at": "2026-07-09T23:04:32.774+09:00",
+      "updated_at": "2026-07-09T23:04:32.774+09:00"
+    },
+    {
+      "id": "1524778225606066207",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 파푸리온의 예지력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-16_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778225505534094/3-16_.png?ex=6a50fbe1&is=6a4faa61&hm=a8756246966ac8747bcd8c6e921ad9bfc1f5e17ee15672beff4e53f3aa16aad7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778225505534094/3-16_.png?ex=6a50fbe1&is=6a4faa61&hm=a8756246966ac8747bcd8c6e921ad9bfc1f5e17ee15672beff4e53f3aa16aad7&",
+          "content_type": "image/png",
+          "size": 30818
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778225505534094/3-16_.png?ex=6a50fbe1&is=6a4faa61&hm=a8756246966ac8747bcd8c6e921ad9bfc1f5e17ee15672beff4e53f3aa16aad7&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778225505534094/3-16_.png?ex=6a50fbe1&is=6a4faa61&hm=a8756246966ac8747bcd8c6e921ad9bfc1f5e17ee15672beff4e53f3aa16aad7&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778225606066207",
+      "created_at": "2026-07-09T23:04:17.994+09:00",
+      "updated_at": "2026-07-09T23:04:17.994+09:00"
+    },
+    {
+      "id": "1524778157474058271",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 안타라스의 마력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-15_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778157155029196/3-15_.png?ex=6a50fbd1&is=6a4faa51&hm=abc4dd58bbc501d924871db3e368f32856a6810ab47959f8d09e1b857703833c&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778157155029196/3-15_.png?ex=6a50fbd1&is=6a4faa51&hm=abc4dd58bbc501d924871db3e368f32856a6810ab47959f8d09e1b857703833c&",
+          "content_type": "image/png",
+          "size": 21646
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778157155029196/3-15_.png?ex=6a50fbd1&is=6a4faa51&hm=abc4dd58bbc501d924871db3e368f32856a6810ab47959f8d09e1b857703833c&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778157155029196/3-15_.png?ex=6a50fbd1&is=6a4faa51&hm=abc4dd58bbc501d924871db3e368f32856a6810ab47959f8d09e1b857703833c&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778157474058271",
+      "created_at": "2026-07-09T23:04:01.750+09:00",
+      "updated_at": "2026-07-09T23:04:01.750+09:00"
+    },
+    {
+      "id": "1524778119087784157",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 안타라스의 인내력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-14_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778119075205261/3-14_.png?ex=6a50fbc8&is=6a4faa48&hm=f211b3ab1f9ba13b7679a5438c3542bc86f516863debc3d98dafb525967ad3f8&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778119075205261/3-14_.png?ex=6a50fbc8&is=6a4faa48&hm=f211b3ab1f9ba13b7679a5438c3542bc86f516863debc3d98dafb525967ad3f8&",
+          "content_type": "image/png",
+          "size": 21640
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778119075205261/3-14_.png?ex=6a50fbc8&is=6a4faa48&hm=f211b3ab1f9ba13b7679a5438c3542bc86f516863debc3d98dafb525967ad3f8&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778119075205261/3-14_.png?ex=6a50fbc8&is=6a4faa48&hm=f211b3ab1f9ba13b7679a5438c3542bc86f516863debc3d98dafb525967ad3f8&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778119087784157",
+      "created_at": "2026-07-09T23:03:52.598+09:00",
+      "updated_at": "2026-07-09T23:03:52.598+09:00"
+    },
+    {
+      "id": "1524778076641431643",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 안타라스의 완력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-13_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778076200898580/3-13_.png?ex=6a50fbbe&is=6a4faa3e&hm=c7341b0527364a4c575005ff7c0e36c5604d00930b6b13001095b33f5b89d3b0&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778076200898580/3-13_.png?ex=6a50fbbe&is=6a4faa3e&hm=c7341b0527364a4c575005ff7c0e36c5604d00930b6b13001095b33f5b89d3b0&",
+          "content_type": "image/png",
+          "size": 20024
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778076200898580/3-13_.png?ex=6a50fbbe&is=6a4faa3e&hm=c7341b0527364a4c575005ff7c0e36c5604d00930b6b13001095b33f5b89d3b0&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778076200898580/3-13_.png?ex=6a50fbbe&is=6a4faa3e&hm=c7341b0527364a4c575005ff7c0e36c5604d00930b6b13001095b33f5b89d3b0&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778076641431643",
+      "created_at": "2026-07-09T23:03:42.478+09:00",
+      "updated_at": "2026-07-09T23:03:42.478+09:00"
+    },
+    {
+      "id": "1524778022962462813",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 안타라스의 예지력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-12_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778022602018987/3-12_.png?ex=6a50fbb1&is=6a4faa31&hm=53049ae2b08d505436528531d2fdeddfc60dd0b628da4018654451761421aeaf&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524778022602018987/3-12_.png?ex=6a50fbb1&is=6a4faa31&hm=53049ae2b08d505436528531d2fdeddfc60dd0b628da4018654451761421aeaf&",
+          "content_type": "image/png",
+          "size": 30865
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524778022602018987/3-12_.png?ex=6a50fbb1&is=6a4faa31&hm=53049ae2b08d505436528531d2fdeddfc60dd0b628da4018654451761421aeaf&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778022602018987/3-12_.png?ex=6a50fbb1&is=6a4faa31&hm=53049ae2b08d505436528531d2fdeddfc60dd0b628da4018654451761421aeaf&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524778022962462813",
+      "created_at": "2026-07-09T23:03:29.680+09:00",
+      "updated_at": "2026-07-09T23:03:29.680+09:00"
+    },
+    {
+      "id": "1524776968728346634",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 발라카스의 마력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-11_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776968443138108/3-11_.png?ex=6a50fab6&is=6a4fa936&hm=9eab9e1b48dcf02fb23bffe06cf88d22347023e7af4ffb38b9bfca034d38ee2a&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524776968443138108/3-11_.png?ex=6a50fab6&is=6a4fa936&hm=9eab9e1b48dcf02fb23bffe06cf88d22347023e7af4ffb38b9bfca034d38ee2a&",
+          "content_type": "image/png",
+          "size": 21813
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524776968443138108/3-11_.png?ex=6a50fab6&is=6a4fa936&hm=9eab9e1b48dcf02fb23bffe06cf88d22347023e7af4ffb38b9bfca034d38ee2a&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776968443138108/3-11_.png?ex=6a50fab6&is=6a4fa936&hm=9eab9e1b48dcf02fb23bffe06cf88d22347023e7af4ffb38b9bfca034d38ee2a&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524776968728346634",
+      "created_at": "2026-07-09T22:59:18.331+09:00",
+      "updated_at": "2026-07-09T22:59:18.331+09:00"
+    },
+    {
+      "id": "1524776887107457034",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 발라카스의 인내력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-10_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776886788685996/3-10_.png?ex=6a50faa2&is=6a4fa922&hm=3af748c2f46a13d309b4aad5485c92d34ec6a7a01087cfab3098046906ee1eb4&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524776886788685996/3-10_.png?ex=6a50faa2&is=6a4fa922&hm=3af748c2f46a13d309b4aad5485c92d34ec6a7a01087cfab3098046906ee1eb4&",
+          "content_type": "image/png",
+          "size": 22504
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524776886788685996/3-10_.png?ex=6a50faa2&is=6a4fa922&hm=3af748c2f46a13d309b4aad5485c92d34ec6a7a01087cfab3098046906ee1eb4&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776886788685996/3-10_.png?ex=6a50faa2&is=6a4fa922&hm=3af748c2f46a13d309b4aad5485c92d34ec6a7a01087cfab3098046906ee1eb4&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524776887107457034",
+      "created_at": "2026-07-09T22:58:58.871+09:00",
+      "updated_at": "2026-07-09T22:58:58.871+09:00"
+    },
+    {
+      "id": "1524776806069047306",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 발라카스의 완력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-9_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776805767315618/3-9_.png?ex=6a50fa8f&is=6a4fa90f&hm=6cc039fbe3de11d5ad4e7e75f768fe8ea2b9e5447e07d1b6f928a3c18a548128&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524776805767315618/3-9_.png?ex=6a50fa8f&is=6a4fa90f&hm=6cc039fbe3de11d5ad4e7e75f768fe8ea2b9e5447e07d1b6f928a3c18a548128&",
+          "content_type": "image/png",
+          "size": 19857
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524776805767315618/3-9_.png?ex=6a50fa8f&is=6a4fa90f&hm=6cc039fbe3de11d5ad4e7e75f768fe8ea2b9e5447e07d1b6f928a3c18a548128&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776805767315618/3-9_.png?ex=6a50fa8f&is=6a4fa90f&hm=6cc039fbe3de11d5ad4e7e75f768fe8ea2b9e5447e07d1b6f928a3c18a548128&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524776806069047306",
+      "created_at": "2026-07-09T22:58:39.550+09:00",
+      "updated_at": "2026-07-09T22:58:39.550+09:00"
+    },
+    {
+      "id": "1524776732815524011",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 발라카스의 예지력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-8_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776732580646922/3-8_.png?ex=6a50fa7e&is=6a4fa8fe&hm=53bc61af1ddefacd38036aa46c1e6553d06fac71f7ffdb6ca7fe13d1cf9aceb7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524776732580646922/3-8_.png?ex=6a50fa7e&is=6a4fa8fe&hm=53bc61af1ddefacd38036aa46c1e6553d06fac71f7ffdb6ca7fe13d1cf9aceb7&",
+          "content_type": "image/png",
+          "size": 30829
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524776732580646922/3-8_.png?ex=6a50fa7e&is=6a4fa8fe&hm=53bc61af1ddefacd38036aa46c1e6553d06fac71f7ffdb6ca7fe13d1cf9aceb7&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776732580646922/3-8_.png?ex=6a50fa7e&is=6a4fa8fe&hm=53bc61af1ddefacd38036aa46c1e6553d06fac71f7ffdb6ca7fe13d1cf9aceb7&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524776732815524011",
+      "created_at": "2026-07-09T22:58:22.085+09:00",
+      "updated_at": "2026-07-09T22:58:22.085+09:00"
+    },
+    {
+      "id": "1524727391119741018",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 린드비오르의 마력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-7_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727390821941248/3-7_.png?ex=6a50cc8a&is=6a4f7b0a&hm=1a92673c3f9baa768849eb4a95f4788d8cebfd7728d2097856617aa0aee07003&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524727390821941248/3-7_.png?ex=6a50cc8a&is=6a4f7b0a&hm=1a92673c3f9baa768849eb4a95f4788d8cebfd7728d2097856617aa0aee07003&",
+          "content_type": "image/png",
+          "size": 11942
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524727390821941248/3-7_.png?ex=6a50cc8a&is=6a4f7b0a&hm=1a92673c3f9baa768849eb4a95f4788d8cebfd7728d2097856617aa0aee07003&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727390821941248/3-7_.png?ex=6a50cc8a&is=6a4f7b0a&hm=1a92673c3f9baa768849eb4a95f4788d8cebfd7728d2097856617aa0aee07003&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524727391119741018",
+      "created_at": "2026-07-09T19:42:18.108+09:00",
+      "updated_at": "2026-07-09T19:42:18.108+09:00"
+    },
+    {
+      "id": "1524727321926307963",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 린드비오르의 인내력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-6_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727321582370846/3-6_.png?ex=6a50cc79&is=6a4f7af9&hm=703ae99b1b4e11df748b3d20b65d032b88dd5d66cac6bf3abafaf0fd17a96bca&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524727321582370846/3-6_.png?ex=6a50cc79&is=6a4f7af9&hm=703ae99b1b4e11df748b3d20b65d032b88dd5d66cac6bf3abafaf0fd17a96bca&",
+          "content_type": "image/png",
+          "size": 22710
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524727321582370846/3-6_.png?ex=6a50cc79&is=6a4f7af9&hm=703ae99b1b4e11df748b3d20b65d032b88dd5d66cac6bf3abafaf0fd17a96bca&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727321582370846/3-6_.png?ex=6a50cc79&is=6a4f7af9&hm=703ae99b1b4e11df748b3d20b65d032b88dd5d66cac6bf3abafaf0fd17a96bca&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524727321926307963",
+      "created_at": "2026-07-09T19:42:01.611+09:00",
+      "updated_at": "2026-07-09T19:42:01.611+09:00"
+    },
+    {
+      "id": "1524727274669211750",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 린드비오르의 완력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-5_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727274744840313/3-5_.png?ex=6a50cc6e&is=6a4f7aee&hm=e6a2d19b39c7bf106cd88165a4ed4d7fd0d80d9da46d1b1f9fc208e0c4a888c5&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524727274744840313/3-5_.png?ex=6a50cc6e&is=6a4f7aee&hm=e6a2d19b39c7bf106cd88165a4ed4d7fd0d80d9da46d1b1f9fc208e0c4a888c5&",
+          "content_type": "image/png",
+          "size": 19795
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524727274744840313/3-5_.png?ex=6a50cc6e&is=6a4f7aee&hm=e6a2d19b39c7bf106cd88165a4ed4d7fd0d80d9da46d1b1f9fc208e0c4a888c5&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727274744840313/3-5_.png?ex=6a50cc6e&is=6a4f7aee&hm=e6a2d19b39c7bf106cd88165a4ed4d7fd0d80d9da46d1b1f9fc208e0c4a888c5&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524727274669211750",
+      "created_at": "2026-07-09T19:41:50.344+09:00",
+      "updated_at": "2026-07-09T19:41:50.344+09:00"
+    },
+    {
+      "id": "1524727194692223089",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 갑옷\n이름 : 린드비오르의 예지력\n방어력 : 13\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-4_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727194604277780/3-4_.png?ex=6a50cc5b&is=6a4f7adb&hm=75d608f2d096049153b0943ff12640c582a19cd454a5728c4abe96f1564fc2d0&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524727194604277780/3-4_.png?ex=6a50cc5b&is=6a4f7adb&hm=75d608f2d096049153b0943ff12640c582a19cd454a5728c4abe96f1564fc2d0&",
+          "content_type": "image/png",
+          "size": 19515
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524727194604277780/3-4_.png?ex=6a50cc5b&is=6a4f7adb&hm=75d608f2d096049153b0943ff12640c582a19cd454a5728c4abe96f1564fc2d0&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727194604277780/3-4_.png?ex=6a50cc5b&is=6a4f7adb&hm=75d608f2d096049153b0943ff12640c582a19cd454a5728c4abe96f1564fc2d0&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524727194692223089",
+      "created_at": "2026-07-09T19:41:31.276+09:00",
+      "updated_at": "2026-07-09T19:41:31.276+09:00"
+    },
+    {
+      "id": "1524727075926442105",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 부츠\n이름 : 마수군왕의 부츠\n방어력 : 7\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-3_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727075506880614/3-3_.png?ex=6a50cc3e&is=6a4f7abe&hm=ca8e6850813b5b96cd63f31ba9e5b5c479c7196a4534c8265d3f5b794b3afbea&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524727075506880614/3-3_.png?ex=6a50cc3e&is=6a4f7abe&hm=ca8e6850813b5b96cd63f31ba9e5b5c479c7196a4534c8265d3f5b794b3afbea&",
+          "content_type": "image/webp",
+          "size": 6398
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524727075506880614/3-3_.png?ex=6a50cc3e&is=6a4f7abe&hm=ca8e6850813b5b96cd63f31ba9e5b5c479c7196a4534c8265d3f5b794b3afbea&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727075506880614/3-3_.png?ex=6a50cc3e&is=6a4f7abe&hm=ca8e6850813b5b96cd63f31ba9e5b5c479c7196a4534c8265d3f5b794b3afbea&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524727075926442105",
+      "created_at": "2026-07-09T19:41:02.960+09:00",
+      "updated_at": "2026-07-09T19:41:02.960+09:00"
+    },
+    {
+      "id": "1524726969210638416",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 장갑\n이름 : 진 암살군왕의 장갑\n방어력 : 6\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726968837341257/3-2_.png?ex=6a50cc25&is=6a4f7aa5&hm=aeffe2a7aa9b96e50928c3945c7dba1ebb122fa63f7249adde892029ca037a47&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524726968837341257/3-2_.png?ex=6a50cc25&is=6a4f7aa5&hm=aeffe2a7aa9b96e50928c3945c7dba1ebb122fa63f7249adde892029ca037a47&",
+          "content_type": "image/webp",
+          "size": 5422
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524726968837341257/3-2_.png?ex=6a50cc25&is=6a4f7aa5&hm=aeffe2a7aa9b96e50928c3945c7dba1ebb122fa63f7249adde892029ca037a47&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726968837341257/3-2_.png?ex=6a50cc25&is=6a4f7aa5&hm=aeffe2a7aa9b96e50928c3945c7dba1ebb122fa63f7249adde892029ca037a47&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524726969210638416",
+      "created_at": "2026-07-09T19:40:37.517+09:00",
+      "updated_at": "2026-07-09T19:40:37.517+09:00"
+    },
+    {
+      "id": "1524726862318665769",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 망토\n이름 : 가디언의 망토\n방어력 : 8\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3-1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726861936988210/3-1_.png?ex=6a50cc0b&is=6a4f7a8b&hm=71eda87e58c509febba7537b9996a7dba676bf891f0dcb3bfae512a896de5042&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524726861936988210/3-1_.png?ex=6a50cc0b&is=6a4f7a8b&hm=71eda87e58c509febba7537b9996a7dba676bf891f0dcb3bfae512a896de5042&",
+          "content_type": "image/webp",
+          "size": 6582
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524726861936988210/3-1_.png?ex=6a50cc0b&is=6a4f7a8b&hm=71eda87e58c509febba7537b9996a7dba676bf891f0dcb3bfae512a896de5042&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726861936988210/3-1_.png?ex=6a50cc0b&is=6a4f7a8b&hm=71eda87e58c509febba7537b9996a7dba676bf891f0dcb3bfae512a896de5042&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524726862318665769",
+      "created_at": "2026-07-09T19:40:12.032+09:00",
+      "updated_at": "2026-07-09T19:40:12.032+09:00"
+    },
+    {
+      "id": "1524726770438246440",
+      "type": "아이템게시판",
+      "title": "대분류 : 방어구",
+      "date": "2026-07-09",
+      "content": "소분류 : 투구\n이름 : 명법군왕의 투구\n방어력 : 9\n사용클래스 : 전체\n등급 : 전설\n획득처 :",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "3_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726769997840404/3_.png?ex=6a50cbf6&is=6a4f7a76&hm=8fd531ee8fe90ab781e37b6f65956444436b29674cee28bd1e2e76c365a2f605&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524726769997840404/3_.png?ex=6a50cbf6&is=6a4f7a76&hm=8fd531ee8fe90ab781e37b6f65956444436b29674cee28bd1e2e76c365a2f605&",
+          "content_type": "image/webp",
+          "size": 5972
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524726769997840404/3_.png?ex=6a50cbf6&is=6a4f7a76&hm=8fd531ee8fe90ab781e37b6f65956444436b29674cee28bd1e2e76c365a2f605&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524726769997840404/3_.png?ex=6a50cbf6&is=6a4f7a76&hm=8fd531ee8fe90ab781e37b6f65956444436b29674cee28bd1e2e76c365a2f605&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524726770438246440",
+      "created_at": "2026-07-09T19:39:50.126+09:00",
+      "updated_at": "2026-07-09T19:39:50.126+09:00"
+    },
     {
       "id": "1524723638723674152",
       "type": "아이템게시판",
