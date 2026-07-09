@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:24:00.336+09:00",
+  "updated": "2026-07-09T19:24:33.135+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -397,6 +397,28 @@
       "discord_message_id": "1524641921253769296",
       "updated_at": "2026-07-09T14:47:34.615+09:00",
       "created_at": "2026-07-09T14:47:34.615+09:00"
+    },
+    {
+      "id": "신성한 마법 방어 투구",
+      "category": "방어구",
+      "type": "투구",
+      "name": "신성한 마법 방어 투구",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "grade-hero",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "5",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524722919371182170/2_.png?ex=6a50c85f&is=6a4f76df&hm=eadbfaa5cfcf9b595d089fc02c6de2947ebc15ca424250c476d433df55d807f9&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524722919731888189",
+      "updated_at": "2026-07-09T19:24:33.132+09:00",
+      "created_at": "2026-07-09T19:24:33.132+09:00"
     },
     {
       "id": "수정 단검",
