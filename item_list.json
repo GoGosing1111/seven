@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:22:53.358+09:00",
+  "updated": "2026-07-09T19:23:32.725+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -551,6 +551,28 @@
       "discord_message_id": "1524722387604733972",
       "updated_at": "2026-07-09T19:22:26.279+09:00",
       "created_at": "2026-07-09T19:22:26.279+09:00"
+    },
+    {
+      "id": "기사단의 부츠",
+      "category": "방어구",
+      "type": "부츠",
+      "name": "기사단의 부츠",
+      "grade": "희귀",
+      "grade_color": "파랑",
+      "grade_class": "grade-rare",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "3",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524722666114650255/1-3_.png?ex=6a50c823&is=6a4f76a3&hm=5fe49331dcfe94279a82c1d5d0b360d45b26dcc83a068b8d33db36a9c8da1cbd&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524722666433544192",
+      "updated_at": "2026-07-09T19:23:32.722+09:00",
+      "created_at": "2026-07-09T19:23:32.722+09:00"
     },
     {
       "id": "기사단의 장갑",
