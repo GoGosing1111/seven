@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:41:32.400+09:00",
+  "updated": "2026-07-09T19:41:51.543+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -287,6 +287,28 @@
       "discord_message_id": "1524727194692223089",
       "updated_at": "2026-07-09T19:41:32.397+09:00",
       "created_at": "2026-07-09T19:41:32.397+09:00"
+    },
+    {
+      "id": "린드비오르의 완력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "린드비오르의 완력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727274744840313/3-5_.png?ex=6a50cc6e&is=6a4f7aee&hm=e6a2d19b39c7bf106cd88165a4ed4d7fd0d80d9da46d1b1f9fc208e0c4a888c5&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524727274669211750",
+      "updated_at": "2026-07-09T19:41:51.540+09:00",
+      "created_at": "2026-07-09T19:41:51.540+09:00"
     },
     {
       "id": "가디언의 망토",
