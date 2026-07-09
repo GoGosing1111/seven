@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:10:10.950+09:00",
+  "updated": "2026-07-09T23:29:34.391+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -177,6 +177,28 @@
       "discord_message_id": "1524779701045039105",
       "updated_at": "2026-07-09T23:10:10.948+09:00",
       "created_at": "2026-07-09T23:10:10.948+09:00"
+    },
+    {
+      "id": "군터의 응징",
+      "category": "방어구",
+      "type": "장갑",
+      "name": "군터의 응징",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "8",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524784580479942686/4-4_.gif?ex=6a5101cd&is=6a4fb04d&hm=f38533866facc0f6d53b5659b28d08f170b6be3edb1eafe07131f6802bc87bae&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524784580962418718",
+      "updated_at": "2026-07-09T23:29:34.389+09:00",
+      "created_at": "2026-07-09T23:29:34.389+09:00"
     },
     {
       "id": "발록의 핏빛 투구",
