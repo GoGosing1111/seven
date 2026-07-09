@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:04:54.656+09:00",
+  "updated": "2026-07-09T23:07:15.371+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -133,6 +133,28 @@
       "discord_message_id": "1524653687970988042",
       "updated_at": "2026-07-09T19:30:15.047+09:00",
       "created_at": "2026-07-09T19:30:15.047+09:00"
+    },
+    {
+      "id": "할파스의 투구",
+      "category": "방어구",
+      "type": "투구",
+      "name": "할파스의 투구",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "12",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778964629979136/4_.gif?ex=6a50fc92&is=6a4fab12&hm=97be540dbac9c447b13f1eed20221022d3e9df5daca501b1ce1c5daeb5b8e374&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524778964923584613",
+      "updated_at": "2026-07-09T23:07:15.368+09:00",
+      "created_at": "2026-07-09T23:07:15.368+09:00"
     },
     {
       "id": "아스테어의 단검",
