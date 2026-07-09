@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:54:33.490+09:00",
+  "updated": "2026-07-09T13:56:01.087+09:00",
   "items": [
     {
       "id": "할파스",
@@ -45,6 +45,28 @@
       "created_at": "2026-07-09T13:36:21.972+09:00",
       "grade_color": "파랑",
       "grade_class": "rare"
+    },
+    {
+      "id": "오리하루콘 단검",
+      "category": "무기",
+      "type": "단검",
+      "name": "오리하루콘 단검",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "hero",
+      "attack": "",
+      "small_attack": "7",
+      "big_attack": "7",
+      "defense": "",
+      "option": "",
+      "classes": "전체",
+      "drop": "테스트",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524640240969449597/2-1_.png?ex=6a507b5f&is=6a4f29df&hm=8ae4d236706b937c5a1e6e56bc8c287ba8d0d7fd5cf2fbc915e24b21622c18c9&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524640241816703076",
+      "updated_at": "2026-07-09T13:56:01.083+09:00",
+      "created_at": "2026-07-09T13:56:01.083+09:00"
     },
     {
       "id": "무관의 양손검",
