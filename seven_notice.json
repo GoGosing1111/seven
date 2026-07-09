@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:27:05.086+09:00",
+  "updated": "2026-07-09T14:45:43.471+09:00",
   "notice": [
     {
       "id": "1524431281780429053",
@@ -49,32 +49,6 @@
       "discord_message_id": "1524643746895892530",
       "created_at": "2026-07-09T14:09:55.771+09:00",
       "updated_at": "2026-07-09T14:09:55.771+09:00"
-    },
-    {
-      "id": "1524643288122920972",
-      "type": "아이템게시판",
-      "title": "대분류 : 무기",
-      "date": "2026-07-09",
-      "content": "소분류 : 단검\n이름 : 바람칼날의 단검\n작은몹 공격력 : 24\n큰몹 공격력 : 16\n사용클래스 : 군주\n등급 : 신화\n획득처 : 테스트",
-      "author": "seven_sv_777",
-      "attachments": [
-        {
-          "name": "4-1_.png",
-          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524643287850549318/4-1_.png?ex=6a507e36&is=6a4f2cb6&hm=df06d8ac27c67269465e9bb57831b0beeaf4fbf4412b070b75b6d2b5a32a8606&",
-          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524643287850549318/4-1_.png?ex=6a507e36&is=6a4f2cb6&hm=df06d8ac27c67269465e9bb57831b0beeaf4fbf4412b070b75b6d2b5a32a8606&",
-          "content_type": "image/gif",
-          "size": 61022
-        }
-      ],
-      "images": [
-        "https://cdn.discordapp.com/attachments/1358477565693661184/1524643287850549318/4-1_.png?ex=6a507e36&is=6a4f2cb6&hm=df06d8ac27c67269465e9bb57831b0beeaf4fbf4412b070b75b6d2b5a32a8606&"
-      ],
-      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524643287850549318/4-1_.png?ex=6a507e36&is=6a4f2cb6&hm=df06d8ac27c67269465e9bb57831b0beeaf4fbf4412b070b75b6d2b5a32a8606&",
-      "version": null,
-      "size": null,
-      "discord_message_id": "1524643288122920972",
-      "created_at": "2026-07-09T14:08:06.391+09:00",
-      "updated_at": "2026-07-09T14:08:06.391+09:00"
     },
     {
       "id": "1524643078558974043",
