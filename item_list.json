@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:43:06.102+09:00",
+  "updated": "2026-07-09T14:43:12.398+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -346,13 +346,13 @@
       "defense": "",
       "option": "",
       "classes": "기사",
-      "drop": "",
+      "drop": "테스트",
       "note": "",
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&",
       "author": "seven_sv_777",
       "discord_message_id": "1524637210194870352",
-      "updated_at": "2026-07-09T14:27:40.395+09:00",
-      "created_at": "2026-07-09T14:27:40.395+09:00"
+      "updated_at": "2026-07-09T14:43:12.396+09:00",
+      "created_at": "2026-07-09T14:43:12.396+09:00"
     },
     {
       "id": "은색의 이도류",
@@ -383,7 +383,7 @@
       "name": "무관의 장검",
       "grade": "희귀",
       "grade_color": "파랑",
-      "grade_class": "rare",
+      "grade_class": "grade-rare",
       "attack": "",
       "small_attack": "13",
       "big_attack": "10",
@@ -395,8 +395,8 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&",
       "author": "seven_sv_777",
       "discord_message_id": "1524636952618598493",
-      "updated_at": "2026-07-09T14:43:06.100+09:00",
-      "created_at": "2026-07-09T14:43:06.100+09:00"
+      "updated_at": "2026-07-09T14:43:06.107+09:00",
+      "created_at": "2026-07-09T14:43:06.107+09:00"
     },
     {
       "id": "신관의 지팡이",
