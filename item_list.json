@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T22:58:40.695+09:00",
+  "updated": "2026-07-09T22:58:59.982+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -397,6 +397,28 @@
       "discord_message_id": "1524776806069047306",
       "updated_at": "2026-07-09T22:58:40.692+09:00",
       "created_at": "2026-07-09T22:58:40.692+09:00"
+    },
+    {
+      "id": "발라카스의 인내력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "발라카스의 인내력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524776886788685996/3-10_.png?ex=6a50faa2&is=6a4fa922&hm=3af748c2f46a13d309b4aad5485c92d34ec6a7a01087cfab3098046906ee1eb4&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524776887107457034",
+      "updated_at": "2026-07-09T22:58:59.979+09:00",
+      "created_at": "2026-07-09T22:58:59.979+09:00"
     },
     {
       "id": "가디언의 망토",
