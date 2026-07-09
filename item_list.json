@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:43:58.292+09:00",
+  "updated": "2026-07-09T13:44:29.834+09:00",
   "items": [
     {
       "id": "할파스",
@@ -101,6 +101,26 @@
       "discord_message_id": "1524431195729956915",
       "updated_at": "2026-07-09T13:41:47.745+09:00",
       "created_at": "2026-07-09T00:47:09.975+09:00"
+    },
+    {
+      "id": "신관의 지팡이",
+      "category": "무기",
+      "type": "지팡이",
+      "name": "신관의 지팡이",
+      "grade": "희귀",
+      "attack": "",
+      "small_attack": "9",
+      "big_attack": "9",
+      "defense": "",
+      "option": "",
+      "classes": "마법사",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524637342827282482",
+      "updated_at": "2026-07-09T13:44:29.832+09:00",
+      "created_at": "2026-07-09T13:44:29.832+09:00"
     },
     {
       "id": "태스트투구",
