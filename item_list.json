@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:31:07.256+09:00",
+  "updated": "2026-07-09T13:36:21.975+09:00",
   "items": [
     {
       "id": "할파스",
@@ -21,6 +21,26 @@
       "discord_message_id": "1524432761442668826",
       "updated_at": "2026-07-09T13:31:07.254+09:00",
       "created_at": "2026-07-09T00:47:09.992+09:00"
+    },
+    {
+      "id": "수정 단검",
+      "category": "무기",
+      "type": "단검",
+      "name": "수정 단검",
+      "grade": "",
+      "attack": "",
+      "small_attack": "10",
+      "big_attack": "4",
+      "defense": "",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524635295876644914/1-1_.png?ex=6a5076c4&is=6a4f2544&hm=1c7d31459cd2c4cb2349031baf52c0118e30ac313d204e2819b69b32bd2ceda1&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524635296199872574",
+      "updated_at": "2026-07-09T13:36:21.972+09:00",
+      "created_at": "2026-07-09T13:36:21.972+09:00"
     },
     {
       "id": "장검",
