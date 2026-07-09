@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:24:33.135+09:00",
+  "updated": "2026-07-09T19:24:59.873+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -397,6 +397,28 @@
       "discord_message_id": "1524641921253769296",
       "updated_at": "2026-07-09T14:47:34.615+09:00",
       "created_at": "2026-07-09T14:47:34.615+09:00"
+    },
+    {
+      "id": "빛나는 용사의 망토",
+      "category": "방어구",
+      "type": "망토",
+      "name": "빛나는 용사의 망토",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "grade-hero",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "5",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723031724003440/2-1_.png?ex=6a50c87a&is=6a4f76fa&hm=d3e1866488ad5cfb227d40e5cf89394fb106ca9937a2f171c1bf78fe5842f16f&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524723031958618154",
+      "updated_at": "2026-07-09T19:24:59.870+09:00",
+      "created_at": "2026-07-09T19:24:59.870+09:00"
     },
     {
       "id": "신성한 마법 방어 투구",
