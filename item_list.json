@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:04:44.219+09:00",
+  "updated": "2026-07-09T23:04:54.656+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -529,6 +529,28 @@
       "discord_message_id": "1524778119087784157",
       "updated_at": "2026-07-09T23:03:53.832+09:00",
       "created_at": "2026-07-09T23:03:53.832+09:00"
+    },
+    {
+      "id": "파푸리온의 마력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "파푸리온의 마력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778374092951702/3-19_.png?ex=6a50fc05&is=6a4faa85&hm=566efa88b13d512324c4cc9899e673874f7385e7e7081aa73b4b57c772d3b319&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524778374386679920",
+      "updated_at": "2026-07-09T23:04:54.653+09:00",
+      "created_at": "2026-07-09T23:04:54.653+09:00"
     },
     {
       "id": "파푸리온의 예지력",
