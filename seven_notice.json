@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T00:40:16.115+09:00",
+  "updated": "2026-07-09T13:31:07.261+09:00",
   "notice": [
     {
       "id": "1524431281780429053",
@@ -82,16 +82,16 @@
       "attachments": [
         {
           "name": "25445.png",
-          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a4fb8af&is=6a4e672f&hm=bcfd3dbb80112d6f633fca2022d214af960fee4c2239c86fabe2e79f10b65b96&",
-          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a4fb8af&is=6a4e672f&hm=bcfd3dbb80112d6f633fca2022d214af960fee4c2239c86fabe2e79f10b65b96&",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a50616f&is=6a4f0fef&hm=75a78df7ce8d6fd0923131361dcbdb0f3a2e1edd1945a4c09c151cb6e4f020b1&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a50616f&is=6a4f0fef&hm=75a78df7ce8d6fd0923131361dcbdb0f3a2e1edd1945a4c09c151cb6e4f020b1&",
           "content_type": "image/webp",
           "size": 1822
         }
       ],
       "images": [
-        "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a4fb8af&is=6a4e672f&hm=bcfd3dbb80112d6f633fca2022d214af960fee4c2239c86fabe2e79f10b65b96&"
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a50616f&is=6a4f0fef&hm=75a78df7ce8d6fd0923131361dcbdb0f3a2e1edd1945a4c09c151cb6e4f020b1&"
       ],
-      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a4fb8af&is=6a4e672f&hm=bcfd3dbb80112d6f633fca2022d214af960fee4c2239c86fabe2e79f10b65b96&",
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524431195491008675/25445.png?ex=6a50616f&is=6a4f0fef&hm=75a78df7ce8d6fd0923131361dcbdb0f3a2e1edd1945a4c09c151cb6e4f020b1&",
       "version": null,
       "size": null,
       "discord_message_id": "1524431195729956915",
