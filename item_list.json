@@ -1,7 +1,29 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:25:48.335+09:00",
+  "updated": "2026-07-09T19:26:24.692+09:00",
   "items": [
+    {
+      "id": "린드비오르의 마갑주",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "린드비오르의 마갑주",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "grade-hero",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "11",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723387434401832/2-4_.png?ex=6a50c8cf&is=6a4f774f&hm=46653c1e887aa1a7ccf3d1a3305ed059765bba777595c75676ef45ccf1c03855&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524723387744649216",
+      "updated_at": "2026-07-09T19:26:24.689+09:00",
+      "created_at": "2026-07-09T19:26:24.689+09:00"
+    },
     {
       "id": "타라스의 부츠",
       "category": "방어구",
