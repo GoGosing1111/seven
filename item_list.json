@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T14:27:02.099+09:00",
+  "updated": "2026-07-09T14:27:03.785+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -439,50 +439,6 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&",
       "author": "seven_sv_777",
       "discord_message_id": "1524637747602788402",
-      "updated_at": "2026-07-09T14:26:23.052+09:00",
-      "created_at": "2026-07-09T14:26:23.052+09:00"
-    },
-    {
-      "id": "할파스",
-      "category": "기타",
-      "type": "마법인형",
-      "name": "할파스",
-      "grade": "",
-      "grade_color": "",
-      "grade_class": "",
-      "attack": "",
-      "small_attack": "",
-      "big_attack": "",
-      "defense": "",
-      "option": "",
-      "classes": "전체",
-      "drop": "",
-      "note": "",
-      "image": "",
-      "author": "seven_sv_777",
-      "discord_message_id": "1524432761442668826",
-      "updated_at": "2026-07-09T14:26:23.052+09:00",
-      "created_at": "2026-07-09T14:26:23.052+09:00"
-    },
-    {
-      "id": "목걸이",
-      "category": "장신구",
-      "type": "목걸이",
-      "name": "목걸이",
-      "grade": "",
-      "grade_color": "",
-      "grade_class": "",
-      "attack": "",
-      "small_attack": "",
-      "big_attack": "",
-      "defense": "",
-      "option": "",
-      "classes": "군주",
-      "drop": "",
-      "note": "",
-      "image": "",
-      "author": "seven_sv_777",
-      "discord_message_id": "1524432621646512129",
       "updated_at": "2026-07-09T14:26:23.052+09:00",
       "created_at": "2026-07-09T14:26:23.052+09:00"
     }
