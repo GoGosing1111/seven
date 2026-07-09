@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:40:38.659+09:00",
+  "updated": "2026-07-09T19:41:04.058+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -287,6 +287,28 @@
       "discord_message_id": "1524726862318665769",
       "updated_at": "2026-07-09T19:40:13.094+09:00",
       "created_at": "2026-07-09T19:40:13.094+09:00"
+    },
+    {
+      "id": "마수군왕의 부츠",
+      "category": "방어구",
+      "type": "부츠",
+      "name": "마수군왕의 부츠",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "7",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727075506880614/3-3_.png?ex=6a50cc3e&is=6a4f7abe&hm=ca8e6850813b5b96cd63f31ba9e5b5c479c7196a4534c8265d3f5b794b3afbea&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524727075926442105",
+      "updated_at": "2026-07-09T19:41:04.056+09:00",
+      "created_at": "2026-07-09T19:41:04.056+09:00"
     },
     {
       "id": "진 암살군왕의 장갑",
