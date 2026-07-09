@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:29:34.391+09:00",
+  "updated": "2026-07-09T23:33:25.682+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -199,6 +199,28 @@
       "discord_message_id": "1524784580962418718",
       "updated_at": "2026-07-09T23:29:34.389+09:00",
       "created_at": "2026-07-09T23:29:34.389+09:00"
+    },
+    {
+      "id": "에오딘의 장갑",
+      "category": "방어구",
+      "type": "장갑",
+      "name": "에오딘의 장갑",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "6",
+      "option": "",
+      "classes": "요정",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524785550610010283/4-5_.gif?ex=6a5102b4&is=6a4fb134&hm=f11e4b1ecc42e2952c2d5e1a518b9b47eb9a0e645abcf634d96c3f5f275ffc21&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524785551008600154",
+      "updated_at": "2026-07-09T23:33:25.680+09:00",
+      "created_at": "2026-07-09T23:33:25.680+09:00"
     },
     {
       "id": "발록의 핏빛 투구",
