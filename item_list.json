@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:04:02.887+09:00",
+  "updated": "2026-07-09T23:04:19.264+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -529,6 +529,28 @@
       "discord_message_id": "1524778119087784157",
       "updated_at": "2026-07-09T23:03:53.832+09:00",
       "created_at": "2026-07-09T23:03:53.832+09:00"
+    },
+    {
+      "id": "파푸리온의 예지력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "파푸리온의 예지력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778225505534094/3-16_.png?ex=6a50fbe1&is=6a4faa61&hm=a8756246966ac8747bcd8c6e921ad9bfc1f5e17ee15672beff4e53f3aa16aad7&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524778225606066207",
+      "updated_at": "2026-07-09T23:04:19.261+09:00",
+      "created_at": "2026-07-09T23:04:19.261+09:00"
     },
     {
       "id": "가디언의 망토",
