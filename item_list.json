@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:03:30.852+09:00",
+  "updated": "2026-07-09T23:03:43.688+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -463,6 +463,28 @@
       "discord_message_id": "1524778022962462813",
       "updated_at": "2026-07-09T23:03:30.850+09:00",
       "created_at": "2026-07-09T23:03:30.850+09:00"
+    },
+    {
+      "id": "안타라스의 완력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "안타라스의 완력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524778076200898580/3-13_.png?ex=6a50fbbe&is=6a4faa3e&hm=c7341b0527364a4c575005ff7c0e36c5604d00930b6b13001095b33f5b89d3b0&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524778076641431643",
+      "updated_at": "2026-07-09T23:03:43.685+09:00",
+      "created_at": "2026-07-09T23:03:43.685+09:00"
     },
     {
       "id": "가디언의 망토",
