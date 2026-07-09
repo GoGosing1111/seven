@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:41:04.058+09:00",
+  "updated": "2026-07-09T19:41:32.400+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -265,6 +265,28 @@
       "discord_message_id": "1524642934685696010",
       "updated_at": "2026-07-09T19:30:15.047+09:00",
       "created_at": "2026-07-09T19:30:15.047+09:00"
+    },
+    {
+      "id": "린드비오르의 예지력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "린드비오르의 예지력",
+      "grade": "전설",
+      "grade_color": "보라",
+      "grade_class": "grade-legend",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "13",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524727194604277780/3-4_.png?ex=6a50cc5b&is=6a4f7adb&hm=75d608f2d096049153b0943ff12640c582a19cd454a5728c4abe96f1564fc2d0&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524727194692223089",
+      "updated_at": "2026-07-09T19:41:32.397+09:00",
+      "created_at": "2026-07-09T19:41:32.397+09:00"
     },
     {
       "id": "가디언의 망토",
