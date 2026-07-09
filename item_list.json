@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:42:56.973+09:00",
+  "updated": "2026-07-09T13:43:58.292+09:00",
   "items": [
     {
       "id": "할파스",
@@ -41,6 +41,26 @@
       "discord_message_id": "1524635296199872574",
       "updated_at": "2026-07-09T13:41:47.773+09:00",
       "created_at": "2026-07-09T13:36:21.972+09:00"
+    },
+    {
+      "id": "무관의 양손검",
+      "category": "무기",
+      "type": "양손검",
+      "name": "무관의 양손검",
+      "grade": "희귀",
+      "attack": "",
+      "small_attack": "19",
+      "big_attack": "23",
+      "defense": "",
+      "option": "",
+      "classes": "기사",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524637210194870352",
+      "updated_at": "2026-07-09T13:43:58.288+09:00",
+      "created_at": "2026-07-09T13:43:58.288+09:00"
     },
     {
       "id": "무관의 장검",
