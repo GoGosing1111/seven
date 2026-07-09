@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:36:13.641+09:00",
+  "updated": "2026-07-09T23:36:49.008+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -133,6 +133,28 @@
       "discord_message_id": "1524653687970988042",
       "updated_at": "2026-07-09T19:30:15.047+09:00",
       "created_at": "2026-07-09T19:30:15.047+09:00"
+    },
+    {
+      "id": "실렌의 완력",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "실렌의 완력",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "16",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786403530248232/4-7_.gif?ex=6a51037f&is=6a4fb1ff&hm=db8d61f249564bfcdbdd23732a56aaeb6ddfed49ef9624a61f84a1a8517e0cc5&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524786403869720596",
+      "updated_at": "2026-07-09T23:36:49.005+09:00",
+      "created_at": "2026-07-09T23:36:49.005+09:00"
     },
     {
       "id": "로웬델의 망토",
