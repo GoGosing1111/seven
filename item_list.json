@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:33:25.682+09:00",
+  "updated": "2026-07-09T23:36:13.641+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -177,6 +177,28 @@
       "discord_message_id": "1524779701045039105",
       "updated_at": "2026-07-09T23:10:10.948+09:00",
       "created_at": "2026-07-09T23:10:10.948+09:00"
+    },
+    {
+      "id": "에오딘의 부츠",
+      "category": "방어구",
+      "type": "부츠",
+      "name": "에오딘의 부츠",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "9",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524786255332905052/4-6_.gif?ex=6a51035c&is=6a4fb1dc&hm=34b603b9a96c185c037b524474496103d012361d0592b36db3156058f5dd59a9&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524786255630438462",
+      "updated_at": "2026-07-09T23:36:13.639+09:00",
+      "created_at": "2026-07-09T23:36:13.639+09:00"
     },
     {
       "id": "군터의 응징",
