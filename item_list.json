@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:09:40.311+09:00",
+  "updated": "2026-07-09T23:10:10.950+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -155,6 +155,28 @@
       "discord_message_id": "1524779572778762330",
       "updated_at": "2026-07-09T23:09:40.308+09:00",
       "created_at": "2026-07-09T23:09:40.308+09:00"
+    },
+    {
+      "id": "발록의 핏빛 망토",
+      "category": "방어구",
+      "type": "망토",
+      "name": "발록의 핏빛 망토",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "14",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779700747108442/4-3_.gif?ex=6a50fd41&is=6a4fabc1&hm=260692e22ee8c595a713438250aafaf4fff6b5a111b0a2ecf51864549ebc8580&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524779701045039105",
+      "updated_at": "2026-07-09T23:10:10.948+09:00",
+      "created_at": "2026-07-09T23:10:10.948+09:00"
     },
     {
       "id": "발록의 핏빛 투구",
