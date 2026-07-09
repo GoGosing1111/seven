@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:24:59.873+09:00",
+  "updated": "2026-07-09T19:25:25.159+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -417,8 +417,30 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723031724003440/2-1_.png?ex=6a50c87a&is=6a4f76fa&hm=d3e1866488ad5cfb227d40e5cf89394fb106ca9937a2f171c1bf78fe5842f16f&",
       "author": "seven_sv_777",
       "discord_message_id": "1524723031958618154",
-      "updated_at": "2026-07-09T19:24:59.870+09:00",
+      "updated_at": "2026-07-09T19:24:59.921+09:00",
       "created_at": "2026-07-09T19:24:59.870+09:00"
+    },
+    {
+      "id": "암살군왕의 장갑",
+      "category": "방어구",
+      "type": "장갑",
+      "name": "암살군왕의 장갑",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "grade-hero",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "4",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723137529512066/2-2_.png?ex=6a50c893&is=6a4f7713&hm=65706ed1911d35c678e14c12008b753a3feb2230a9dec30884aa2610f6757a05&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524723137646825573",
+      "updated_at": "2026-07-09T19:25:25.154+09:00",
+      "created_at": "2026-07-09T19:25:25.154+09:00"
     },
     {
       "id": "신성한 마법 방어 투구",
