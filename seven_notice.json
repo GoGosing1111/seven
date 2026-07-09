@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T13:41:47.779+09:00",
+  "updated": "2026-07-09T13:51:45.328+09:00",
   "notice": [
     {
       "id": "1524431281780429053",
@@ -24,6 +24,136 @@
   "hunt": [],
   "boss": [],
   "item": [
+    {
+      "id": "1524637930155544788",
+      "type": "아이템게시판",
+      "title": "대분류 : 무기",
+      "date": "2026-07-09",
+      "content": "소분류 : 이도류\n이름 : 은색의 이도류\n작은몹 공격력 : 11\n큰몹 공격력 : 8\n사용클래스 : 다크엘프\n등급 : 희귀",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "1-6_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637929639514162/1-6_.png?ex=6a507938&is=6a4f27b8&hm=bdfcf46ea408e3742105d4c9916ad06ccd64da58d6a89726af059525f5eec823&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524637929639514162/1-6_.png?ex=6a507938&is=6a4f27b8&hm=bdfcf46ea408e3742105d4c9916ad06ccd64da58d6a89726af059525f5eec823&",
+          "content_type": "image/webp",
+          "size": 5182
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524637929639514162/1-6_.png?ex=6a507938&is=6a4f27b8&hm=bdfcf46ea408e3742105d4c9916ad06ccd64da58d6a89726af059525f5eec823&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637929639514162/1-6_.png?ex=6a507938&is=6a4f27b8&hm=bdfcf46ea408e3742105d4c9916ad06ccd64da58d6a89726af059525f5eec823&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524637930155544788",
+      "created_at": "2026-07-09T13:46:48.952+09:00",
+      "updated_at": "2026-07-09T13:46:48.952+09:00"
+    },
+    {
+      "id": "1524637747602788402",
+      "type": "아이템게시판",
+      "title": "대분류 : 무기",
+      "date": "2026-07-09",
+      "content": "소분류 : 활\n이름 : 달의 장궁\n작은몹 공격력 : 3\n큰몹 공격력 : 4\n사용클래스 : 요정\n등급 : 희귀",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "1-5_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&",
+          "content_type": "image/png",
+          "size": 3583
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637747195674664/1-5_.png?ex=6a50790d&is=6a4f278d&hm=0f097a6ec987f89de0106d8ae9561329025122e00504d217e4ad9d1df56bde02&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524637747602788402",
+      "created_at": "2026-07-09T13:46:05.428+09:00",
+      "updated_at": "2026-07-09T13:46:05.428+09:00"
+    },
+    {
+      "id": "1524637342827282482",
+      "type": "아이템게시판",
+      "title": "대분류 : 무기",
+      "date": "2026-07-09",
+      "content": "소분류 : 지팡이\n이름 : 신관의 지팡이\n작은몹 공격력 : 9\n큰몹 공격력 : 9\n사용클래스 : 마법사\n등급 : 희귀",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "1-4_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&",
+          "content_type": "image/png",
+          "size": 2184
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637342521102336/1-4_.png?ex=6a5078ac&is=6a4f272c&hm=84a6c673d266983d63c6be11f061adf793c5d287fdc0022c434a7344f2faba07&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524637342827282482",
+      "created_at": "2026-07-09T13:44:28.922+09:00",
+      "updated_at": "2026-07-09T13:44:28.922+09:00"
+    },
+    {
+      "id": "1524637210194870352",
+      "type": "아이템게시판",
+      "title": "대분류 : 무기",
+      "date": "2026-07-09",
+      "content": "소분류 : 양손검\n이름 : 무관의 양손검\n작은몹 공격력 : 19\n큰몹 공격력 : 23\n사용클래스 : 기사\n등급 : 희귀",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "1-3_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&",
+          "content_type": "image/webp",
+          "size": 2338
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524637209842679898/1-3_.png?ex=6a50788d&is=6a4f270d&hm=dfb0fcac9ab8620b801f8dd8796ca0d159e8a31a597374510d8f811b7b356ea9&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524637210194870352",
+      "created_at": "2026-07-09T13:43:57.300+09:00",
+      "updated_at": "2026-07-09T13:43:57.300+09:00"
+    },
+    {
+      "id": "1524636952618598493",
+      "type": "아이템게시판",
+      "title": "대분류 : 무기",
+      "date": "2026-07-09",
+      "content": "소분류 : 장검\n이름 : 무관의 장검\n작은몹 공격력 : 13\n큰몹 공격력 : 10\n사용클래스 : 군주,기사\n등급 : 희귀",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "name": "1-2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&",
+          "content_type": "image/png",
+          "size": 2569
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358477565693661184/1524636952521871360/1-2_.png?ex=6a50784f&is=6a4f26cf&hm=41e1aab313e8a5c7fff9081dd9820817a4c04f706ff15fc73239a3d05296a8db&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1524636952618598493",
+      "created_at": "2026-07-09T13:42:55.889+09:00",
+      "updated_at": "2026-07-09T13:42:55.889+09:00"
+    },
     {
       "id": "1524635296199872574",
       "type": "아이템게시판",
