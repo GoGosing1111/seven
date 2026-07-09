@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T19:26:46.956+09:00",
+  "updated": "2026-07-09T19:27:08.183+09:00",
   "items": [
     {
       "id": "린드비오르의 마갑주",
@@ -43,8 +43,30 @@
       "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723480938020947/2-5_.png?ex=6a50c8e5&is=6a4f7765&hm=27f6dc20210c33dc2fc6d83092946b22a6fa56a40e21752110411b1cf9b50a6e&",
       "author": "seven_sv_777",
       "discord_message_id": "1524723481290477628",
-      "updated_at": "2026-07-09T19:26:46.954+09:00",
-      "created_at": "2026-07-09T19:26:46.954+09:00"
+      "updated_at": "2026-07-09T19:26:46.952+09:00",
+      "created_at": "2026-07-09T19:26:46.952+09:00"
+    },
+    {
+      "id": "안타라스의 마갑주",
+      "category": "방어구",
+      "type": "갑옷",
+      "name": "안타라스의 마갑주",
+      "grade": "영웅",
+      "grade_color": "빨강",
+      "grade_class": "grade-hero",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "11",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524723568964014090/2-6_.png?ex=6a50c8fa&is=6a4f777a&hm=48b3ef2452acbf8346f66ab97aeae60ce84391c48da6d1b037fe63bd547a23d3&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524723569668526170",
+      "updated_at": "2026-07-09T19:27:08.175+09:00",
+      "created_at": "2026-07-09T19:27:08.172+09:00"
     },
     {
       "id": "타라스의 부츠",
