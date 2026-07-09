@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-09T23:07:41.059+09:00",
+  "updated": "2026-07-09T23:09:40.311+09:00",
   "items": [
     {
       "id": "바람칼날의 단검",
@@ -133,6 +133,28 @@
       "discord_message_id": "1524653687970988042",
       "updated_at": "2026-07-09T19:30:15.047+09:00",
       "created_at": "2026-07-09T19:30:15.047+09:00"
+    },
+    {
+      "id": "로웬델의 망토",
+      "category": "방어구",
+      "type": "망토",
+      "name": "로웬델의 망토",
+      "grade": "신화",
+      "grade_color": "노랑",
+      "grade_class": "grade-myth",
+      "attack": "",
+      "small_attack": "",
+      "big_attack": "",
+      "defense": "12",
+      "option": "",
+      "classes": "전체",
+      "drop": "",
+      "note": "",
+      "image": "https://cdn.discordapp.com/attachments/1358477565693661184/1524779572376244374/4-2_.gif?ex=6a50fd23&is=6a4faba3&hm=ad3e319d737539a934bc6cbfb96bc0202c33f6759aed2f4aad05854f24f103a3&",
+      "author": "seven_sv_777",
+      "discord_message_id": "1524779572778762330",
+      "updated_at": "2026-07-09T23:09:40.308+09:00",
+      "created_at": "2026-07-09T23:09:40.308+09:00"
     },
     {
       "id": "발록의 핏빛 투구",
