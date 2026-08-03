@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T05:00:09.188+09:00",
+  "updated": "2026-08-04T05:00:19.423+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -394,22 +394,6 @@
       "author": "seven_sv_777",
       "attachments": [
         {
-          "id": "1533825688409346159",
-          "name": "6_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688409346159-6_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688409346159-6_.png",
-          "content_type": "image/webp",
-          "size": 3232
-        },
-        {
-          "id": "1533825688715399168",
-          "name": "6_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688715399168-6_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688715399168-6_.png",
-          "content_type": "image/webp",
-          "size": 5042
-        },
-        {
           "id": "1533825688988025003",
           "name": "6_.png",
           "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png",
@@ -419,16 +403,14 @@
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688409346159-6_.png",
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688715399168-6_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png"
       ],
-      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688409346159-6_.png",
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png",
       "version": null,
       "size": null,
       "discord_message_id": "1533825690154303569",
       "created_at": "2026-08-03T22:15:41.636+09:00",
-      "updated_at": "2026-08-04T05:00:08.745+09:00"
+      "updated_at": "2026-08-04T05:00:18.991+09:00"
     },
     {
       "id": "1533811600039874701",
