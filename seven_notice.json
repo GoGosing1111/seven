@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T05:08:17.459+09:00",
+  "updated": "2026-08-04T05:09:23.055+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -448,26 +448,17 @@
           "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800249934614528-3_.png",
           "content_type": "image/png",
           "size": 20164
-        },
-        {
-          "id": "1533800250613956750",
-          "name": "3_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800250613956750-3_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800250613956750-3_.png",
-          "content_type": "image/webp",
-          "size": 3212
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800249934614528-3_.png",
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800250613956750-3_.png"
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800249934614528-3_.png"
       ],
       "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533800249934614528-3_.png",
       "version": null,
       "size": null,
       "discord_message_id": "1533800253709484044",
       "created_at": "2026-08-03T20:34:37.115+09:00",
-      "updated_at": "2026-08-04T05:08:16.984+09:00"
+      "updated_at": "2026-08-04T05:09:22.602+09:00"
     },
     {
       "id": "1533769812382060594",
