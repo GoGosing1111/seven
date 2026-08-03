@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-03T17:17:13.450+09:00",
+  "updated": "2026-08-03T17:36:16.688+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -272,7 +272,89 @@
       "updated_at": "2026-07-18T10:40:42.238+09:00"
     }
   ],
-  "hunt": [],
+  "hunt": [
+    {
+      "id": "1533755371183673447",
+      "type": "사냥터",
+      "title": "[ 수련 던전 1층 ]",
+      "date": "2026-08-03",
+      "content": "드랍 정보\n\n컬렉션 아이템 : 난쟁이족 철 투구 , 마법 방어 투구 , 마법의 투구(신속) , 마법의 투구(치유) , 마법의 투구(힘) , 오크족 투구 , 투구\n\n기타 : 500~1850 아데나 , 1~50 명예코인 , 희귀 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n출현 몬스터 : 늑대인간 , 돌 골렘 , 셸로브 , 오크 전사 , 오크 , 좀비 , 해골",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1533755368587661413",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755368587661413/1_.png?ex=6a71a47f&is=6a7052ff&hm=961bf0956a215b65504b02e00d1c6485215eb5e6c136dff80f8b5145167f34e1&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755368587661413/1_.png?ex=6a71a47f&is=6a7052ff&hm=961bf0956a215b65504b02e00d1c6485215eb5e6c136dff80f8b5145167f34e1&",
+          "content_type": "image/png",
+          "size": 18921
+        },
+        {
+          "id": "1533755368902099036",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755368902099036/1_.png?ex=6a71a47f&is=6a7052ff&hm=ab41e91fbaa6774bfcf48d0e9c9c09dad349a6af51b6e21441e84c17f5164a8c&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755368902099036/1_.png?ex=6a71a47f&is=6a7052ff&hm=ab41e91fbaa6774bfcf48d0e9c9c09dad349a6af51b6e21441e84c17f5164a8c&",
+          "content_type": "image/png",
+          "size": 14762
+        },
+        {
+          "id": "1533755369354956801",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755369354956801/1_.png?ex=6a71a47f&is=6a7052ff&hm=937730de4eee69908d6c5445ad50a653e3d39048fe670d3720c83bc9633039be&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755369354956801/1_.png?ex=6a71a47f&is=6a7052ff&hm=937730de4eee69908d6c5445ad50a653e3d39048fe670d3720c83bc9633039be&",
+          "content_type": "image/png",
+          "size": 17202
+        },
+        {
+          "id": "1533755369703346306",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755369703346306/1_.png?ex=6a71a47f&is=6a7052ff&hm=f3bfeb78fb622c3c4f2979eae0de1f6ffc4c4d3e4e0d621032ebee9951dca370&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755369703346306/1_.png?ex=6a71a47f&is=6a7052ff&hm=f3bfeb78fb622c3c4f2979eae0de1f6ffc4c4d3e4e0d621032ebee9951dca370&",
+          "content_type": "image/png",
+          "size": 20116
+        },
+        {
+          "id": "1533755370080829550",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370080829550/1_.png?ex=6a71a480&is=6a705300&hm=5e0f1ea07a748b0e0ad0fff457d96eda1f9502d363c7b4b39bb2529911188574&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755370080829550/1_.png?ex=6a71a480&is=6a705300&hm=5e0f1ea07a748b0e0ad0fff457d96eda1f9502d363c7b4b39bb2529911188574&",
+          "content_type": "image/png",
+          "size": 16623
+        },
+        {
+          "id": "1533755370420441188",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370420441188/1_.png?ex=6a71a480&is=6a705300&hm=48f4bb3e80313185888199d1dca9389b6639d70fa2fad1c186b078fd84960642&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755370420441188/1_.png?ex=6a71a480&is=6a705300&hm=48f4bb3e80313185888199d1dca9389b6639d70fa2fad1c186b078fd84960642&",
+          "content_type": "image/png",
+          "size": 20958
+        },
+        {
+          "id": "1533755370802118706",
+          "name": "1_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370802118706/1_.png?ex=6a71a480&is=6a705300&hm=004176704f3ba0c6685bc4b46d0848a621219b2f38072d2a3a0c7bdfed999622&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533755370802118706/1_.png?ex=6a71a480&is=6a705300&hm=004176704f3ba0c6685bc4b46d0848a621219b2f38072d2a3a0c7bdfed999622&",
+          "content_type": "image/png",
+          "size": 15381
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755368587661413/1_.png?ex=6a71a47f&is=6a7052ff&hm=961bf0956a215b65504b02e00d1c6485215eb5e6c136dff80f8b5145167f34e1&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755368902099036/1_.png?ex=6a71a47f&is=6a7052ff&hm=ab41e91fbaa6774bfcf48d0e9c9c09dad349a6af51b6e21441e84c17f5164a8c&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755369354956801/1_.png?ex=6a71a47f&is=6a7052ff&hm=937730de4eee69908d6c5445ad50a653e3d39048fe670d3720c83bc9633039be&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755369703346306/1_.png?ex=6a71a47f&is=6a7052ff&hm=f3bfeb78fb622c3c4f2979eae0de1f6ffc4c4d3e4e0d621032ebee9951dca370&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370080829550/1_.png?ex=6a71a480&is=6a705300&hm=5e0f1ea07a748b0e0ad0fff457d96eda1f9502d363c7b4b39bb2529911188574&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370420441188/1_.png?ex=6a71a480&is=6a705300&hm=48f4bb3e80313185888199d1dca9389b6639d70fa2fad1c186b078fd84960642&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533755370802118706/1_.png?ex=6a71a480&is=6a705300&hm=004176704f3ba0c6685bc4b46d0848a621219b2f38072d2a3a0c7bdfed999622&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533755368587661413/1_.png?ex=6a71a47f&is=6a7052ff&hm=961bf0956a215b65504b02e00d1c6485215eb5e6c136dff80f8b5145167f34e1&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1533755371183673447",
+      "created_at": "2026-08-03T17:36:16.287+09:00",
+      "updated_at": "2026-08-03T17:36:16.287+09:00"
+    }
+  ],
   "boss": [],
   "item": [
     {
