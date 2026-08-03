@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T04:55:50.016+09:00",
+  "updated": "2026-08-04T04:56:28.606+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -328,25 +328,14 @@
       "date": "2026-08-03",
       "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 사냥꾼 활 , 언월도 , 장검 , 짧은 검 , 크로스 보우 , 활\n\n👕 장착 아이템 : 명법군왕의 투구 , 가디언의 망토 , 진 암살군왕의 장갑 , 마수군왕의 부츠\n\n⚗️ 재료 아이템 : 마법인형카드\n\n💰 기타 : 7500~15000 아데나 , 50~100 명예코인 , 희귀 비법서 , 영웅 비법서 , 전설 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 메두사 , 변종 라미아 , 변종 옹골리언트 , 코카트리스 , 키메라",
       "author": "seven_sv_777",
-      "attachments": [
-        {
-          "id": "1533836086202073259",
-          "name": "10_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533836086202073259-10_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533836086202073259-10_.png",
-          "content_type": "image/png",
-          "size": 1656
-        }
-      ],
-      "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533836086202073259-10_.png"
-      ],
-      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533836086202073259-10_.png",
+      "attachments": [],
+      "images": [],
+      "url": null,
       "version": null,
       "size": null,
       "discord_message_id": "1533836088559538357",
       "created_at": "2026-08-03T22:57:00.809+09:00",
-      "updated_at": "2026-08-04T04:55:49.574+09:00"
+      "updated_at": "2026-08-04T04:56:28.195+09:00"
     },
     {
       "id": "1533833902584758412",
