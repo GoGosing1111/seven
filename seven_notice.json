@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-03T17:36:16.688+09:00",
+  "updated": "2026-08-03T18:33:39.714+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -273,6 +273,87 @@
     }
   ],
   "hunt": [
+    {
+      "id": "1533769812382060594",
+      "type": "사냥터",
+      "title": "🏦 [ 개미 던전 1층 ]",
+      "date": "2026-08-03",
+      "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 가죽 장갑 , 가죽투구 , 강철 면갑 , 강철 장갑 , 대형 도끼 , 짧은 장화 , 해골투구\n\n👕 장착 아이템 : 기사단의 투구 , 갑옷 , 망토 , 장갑 , 부츠\n\n💰 기타 : 1000~2000 아데나 , 1~50 명예코인 , 희귀 비법서 , 영웅 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 거대 개미 , 거대 병정 개미",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1533769809970462780",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769809970462780/2_.png?ex=6a71b1f2&is=6a706072&hm=4ea59b616a234a770fcad502c2316f8419c7c787ad82f01b21fdc4728a69d5c8&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769809970462780/2_.png?ex=6a71b1f2&is=6a706072&hm=4ea59b616a234a770fcad502c2316f8419c7c787ad82f01b21fdc4728a69d5c8&",
+          "content_type": "image/webp",
+          "size": 3684
+        },
+        {
+          "id": "1533769810318594099",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810318594099/2_.png?ex=6a71b1f2&is=6a706072&hm=075bd05eff9181091801acca2b0d397e7ce33e434997945b0bebe7c40f000d2d&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769810318594099/2_.png?ex=6a71b1f2&is=6a706072&hm=075bd05eff9181091801acca2b0d397e7ce33e434997945b0bebe7c40f000d2d&",
+          "content_type": "image/png",
+          "size": 21894
+        },
+        {
+          "id": "1533769810620448840",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810620448840/2_.png?ex=6a71b1f2&is=6a706072&hm=77a645b24922d536371b07b442eeb916b1bc2d335aa66b4aa2caeb93a1bbef87&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769810620448840/2_.png?ex=6a71b1f2&is=6a706072&hm=77a645b24922d536371b07b442eeb916b1bc2d335aa66b4aa2caeb93a1bbef87&",
+          "content_type": "image/webp",
+          "size": 4138
+        },
+        {
+          "id": "1533769810901729342",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810901729342/2_.png?ex=6a71b1f2&is=6a706072&hm=fd86650acbb1bdbdd632f558a094a4917357b90c09035c6c4015162f2b2cd47d&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769810901729342/2_.png?ex=6a71b1f2&is=6a706072&hm=fd86650acbb1bdbdd632f558a094a4917357b90c09035c6c4015162f2b2cd47d&",
+          "content_type": "image/webp",
+          "size": 3346
+        },
+        {
+          "id": "1533769811220238427",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769811220238427/2_.png?ex=6a71b1f3&is=6a706073&hm=beabab837260655e5592597636c4f154e4e69b426aac047101a33fca260441b5&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769811220238427/2_.png?ex=6a71b1f3&is=6a706073&hm=beabab837260655e5592597636c4f154e4e69b426aac047101a33fca260441b5&",
+          "content_type": "image/png",
+          "size": 15083
+        },
+        {
+          "id": "1533769811698647060",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769811698647060/2_.png?ex=6a71b1f3&is=6a706073&hm=7232106c3172b9ed1e0c3a1c6c9b1e9fbcf3dcef8271b320bf1be17739c48abb&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769811698647060/2_.png?ex=6a71b1f3&is=6a706073&hm=7232106c3172b9ed1e0c3a1c6c9b1e9fbcf3dcef8271b320bf1be17739c48abb&",
+          "content_type": "image/webp",
+          "size": 4746
+        },
+        {
+          "id": "1533769812038258779",
+          "name": "2_.png",
+          "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769812038258779/2_.png?ex=6a71b1f3&is=6a706073&hm=43f5828d63b699cfd70f6247e32ddf7d7482e7d7a02fbb8ef5a4d21d10e8045e&",
+          "proxy_url": "https://media.discordapp.net/attachments/1358719716511842396/1533769812038258779/2_.png?ex=6a71b1f3&is=6a706073&hm=43f5828d63b699cfd70f6247e32ddf7d7482e7d7a02fbb8ef5a4d21d10e8045e&",
+          "content_type": "image/png",
+          "size": 13858
+        }
+      ],
+      "images": [
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769809970462780/2_.png?ex=6a71b1f2&is=6a706072&hm=4ea59b616a234a770fcad502c2316f8419c7c787ad82f01b21fdc4728a69d5c8&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810318594099/2_.png?ex=6a71b1f2&is=6a706072&hm=075bd05eff9181091801acca2b0d397e7ce33e434997945b0bebe7c40f000d2d&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810620448840/2_.png?ex=6a71b1f2&is=6a706072&hm=77a645b24922d536371b07b442eeb916b1bc2d335aa66b4aa2caeb93a1bbef87&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769810901729342/2_.png?ex=6a71b1f2&is=6a706072&hm=fd86650acbb1bdbdd632f558a094a4917357b90c09035c6c4015162f2b2cd47d&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769811220238427/2_.png?ex=6a71b1f3&is=6a706073&hm=beabab837260655e5592597636c4f154e4e69b426aac047101a33fca260441b5&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769811698647060/2_.png?ex=6a71b1f3&is=6a706073&hm=7232106c3172b9ed1e0c3a1c6c9b1e9fbcf3dcef8271b320bf1be17739c48abb&",
+        "https://cdn.discordapp.com/attachments/1358719716511842396/1533769812038258779/2_.png?ex=6a71b1f3&is=6a706073&hm=43f5828d63b699cfd70f6247e32ddf7d7482e7d7a02fbb8ef5a4d21d10e8045e&"
+      ],
+      "url": "https://cdn.discordapp.com/attachments/1358719716511842396/1533769809970462780/2_.png?ex=6a71b1f2&is=6a706072&hm=4ea59b616a234a770fcad502c2316f8419c7c787ad82f01b21fdc4728a69d5c8&",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1533769812382060594",
+      "created_at": "2026-08-03T18:33:39.337+09:00",
+      "updated_at": "2026-08-03T18:33:39.337+09:00"
+    },
     {
       "id": "1533755371183673447",
       "type": "사냥터",
