@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-03T23:38:10.830+09:00",
+  "updated": "2026-08-04T04:48:19.183+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -282,14 +282,6 @@
       "author": "seven_sv_777",
       "attachments": [
         {
-          "id": "1533846404479320226",
-          "name": "13_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404479320226-13_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404479320226-13_.png",
-          "content_type": "image/webp",
-          "size": 2290
-        },
-        {
           "id": "1533846404848550039",
           "name": "13_.png",
           "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404848550039-13_.png",
@@ -331,19 +323,18 @@
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404479320226-13_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404848550039-13_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846405385293998-13_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846405880479764-13_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406203314277-13_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406677135552-13_.png"
       ],
-      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404479320226-13_.png",
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846404848550039-13_.png",
       "version": null,
       "size": null,
       "discord_message_id": "1533846407021330503",
       "created_at": "2026-08-03T23:38:00.922+09:00",
-      "updated_at": "2026-08-03T23:38:00.922+09:00"
+      "updated_at": "2026-08-04T04:48:18.516+09:00"
     },
     {
       "id": "1533844897226948669",
