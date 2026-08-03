@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T05:00:19.423+09:00",
+  "updated": "2026-08-04T05:00:33.716+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -392,25 +392,14 @@
       "date": "2026-08-03",
       "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 고대의 가죽 갑옷 , 고대의 판금 갑옷 , 마법 방어 사슬 갑옷 , 뼈갑옷 , 요정족 사슬 갑옷 , 요정족 판금 갑옷 , 판금 갑옷\n\n👕 장착 아이템 : 오리하루콘 단검 , 진 레이피어 , 진 싸울아비 대검 , 파괴의 장궁 , 데몬의 지팡이 , 흑왕도\n\n💰 기타 : 5000~12500 아데나 , 25~75 명예코인 , 희귀 비법서 , 영웅 비법서 , 전설 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 댄싱소드 , 데스 , 리빙아머 , 미믹 , 실루엣 , 아이언 골렘",
       "author": "seven_sv_777",
-      "attachments": [
-        {
-          "id": "1533825688988025003",
-          "name": "6_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png",
-          "content_type": "image/webp",
-          "size": 3520
-        }
-      ],
-      "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png"
-      ],
-      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533825688988025003-6_.png",
+      "attachments": [],
+      "images": [],
+      "url": null,
       "version": null,
       "size": null,
       "discord_message_id": "1533825690154303569",
       "created_at": "2026-08-03T22:15:41.636+09:00",
-      "updated_at": "2026-08-04T05:00:18.991+09:00"
+      "updated_at": "2026-08-04T05:00:33.299+09:00"
     },
     {
       "id": "1533811600039874701",
