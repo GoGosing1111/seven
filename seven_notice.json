@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-03T22:26:38.104+09:00",
+  "updated": "2026-08-03T22:48:31.553+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -273,6 +273,87 @@
     }
   ],
   "hunt": [
+    {
+      "id": "1533833902584758412",
+      "type": "사냥터",
+      "title": "🏦 [ 기란 감옥 ]",
+      "date": "2026-08-03",
+      "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 그라디우스 , 넓은 검 , 신관의 마력서 , 오크족 단검 , 요정족 단검 , 요정족 티셔츠 , 티셔츠\n\n⚗️ 재료 아이템 : 마법인형카드 , 기란감옥의 룬 조각 , 봉인된 축복주문서 , 몬스터 포인트\n\n💰 기타 : 7500~15000 아데나 , 50~100 명예코인 , 희귀 비법서 , 영웅 비법서 , 전설 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 골프 버그베어 , 골프 오우거 , 골프 킹 버그베어",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1533833900118376499",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900118376499-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900118376499-9_.png",
+          "content_type": "image/webp",
+          "size": 1942
+        },
+        {
+          "id": "1533833900416307340",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900416307340-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900416307340-9_.png",
+          "content_type": "image/webp",
+          "size": 2486
+        },
+        {
+          "id": "1533833900747522158",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900747522158-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900747522158-9_.png",
+          "content_type": "image/webp",
+          "size": 4502
+        },
+        {
+          "id": "1533833901166956605",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901166956605-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901166956605-9_.png",
+          "content_type": "image/webp",
+          "size": 2424
+        },
+        {
+          "id": "1533833901494239334",
+          "name": "9_m.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901494239334-9_m.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901494239334-9_m.png",
+          "content_type": "image/png",
+          "size": 2174
+        },
+        {
+          "id": "1533833901712212119",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901712212119-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901712212119-9_.png",
+          "content_type": "image/webp",
+          "size": 5346
+        },
+        {
+          "id": "1533833901972394145",
+          "name": "9_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901972394145-9_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901972394145-9_.png",
+          "content_type": "image/webp",
+          "size": 4534
+        }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900118376499-9_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900416307340-9_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900747522158-9_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901166956605-9_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901494239334-9_m.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901712212119-9_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833901972394145-9_.png"
+      ],
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533833900118376499-9_.png",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1533833902584758412",
+      "created_at": "2026-08-03T22:48:19.632+09:00",
+      "updated_at": "2026-08-03T22:48:19.632+09:00"
+    },
     {
       "id": "1533828383958630492",
       "type": "사냥터",
