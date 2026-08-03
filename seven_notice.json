@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T04:48:32.531+09:00",
+  "updated": "2026-08-04T04:48:37.699+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -280,25 +280,14 @@
       "date": "2026-08-03",
       "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 루선해머 , 벡드코빈 , 양손검 , 은검 , 은장검 , 포챠드\n\n👕 장착 아이템 : 사신의 반지 , 리치의 반지\n\n⚗️ 재료 아이템 : 마법인형카드\n\n💰 기타 : 7500~15000 아데나 , 50~100 명예코인 , 희귀 비법서 , 영웅 비법서 , 전설 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 탐욕의 감시자 아크르 , 탐욕의 그럽 , 탐욕의 만토디아 , 탐욕의 엔트리키아 , 탐욕의 코아쿡 , 탐욕의 타믈러스",
       "author": "seven_sv_777",
-      "attachments": [
-        {
-          "id": "1533846406677135552",
-          "name": "13_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406677135552-13_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406677135552-13_.png",
-          "content_type": "image/webp",
-          "size": 2618
-        }
-      ],
-      "images": [
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406677135552-13_.png"
-      ],
-      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533846406677135552-13_.png",
+      "attachments": [],
+      "images": [],
+      "url": null,
       "version": null,
       "size": null,
       "discord_message_id": "1533846407021330503",
       "created_at": "2026-08-03T23:38:00.922+09:00",
-      "updated_at": "2026-08-04T04:48:32.114+09:00"
+      "updated_at": "2026-08-04T04:48:37.298+09:00"
     },
     {
       "id": "1533844897226948669",
