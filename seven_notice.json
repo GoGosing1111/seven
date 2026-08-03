@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T04:58:19.014+09:00",
+  "updated": "2026-08-04T04:58:32.629+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -504,22 +504,6 @@
           "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599012532266-5_.png",
           "content_type": "image/webp",
           "size": 4584
-        },
-        {
-          "id": "1533811599461191750",
-          "name": "5_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599461191750-5_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599461191750-5_.png",
-          "content_type": "image/webp",
-          "size": 5618
-        },
-        {
-          "id": "1533811599767371876",
-          "name": "5_.png",
-          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599767371876-5_.png",
-          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599767371876-5_.png",
-          "content_type": "image/webp",
-          "size": 4426
         }
       ],
       "images": [
@@ -527,16 +511,14 @@
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811597632344215-5_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811598144045156-5_.png",
         "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811598563737802-5_.png",
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599012532266-5_.png",
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599461191750-5_.png",
-        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599767371876-5_.png"
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811599012532266-5_.png"
       ],
       "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533811597229686925-5_.png",
       "version": null,
       "size": null,
       "discord_message_id": "1533811600039874701",
       "created_at": "2026-08-03T21:19:42.291+09:00",
-      "updated_at": "2026-08-03T21:19:42.291+09:00"
+      "updated_at": "2026-08-04T04:58:32.171+09:00"
     },
     {
       "id": "1533801598789091498",
