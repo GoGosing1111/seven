@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-03T22:57:10.692+09:00",
+  "updated": "2026-08-03T23:11:48.068+09:00",
   "notice": [
     {
       "id": "1533115918777847908",
@@ -273,6 +273,78 @@
     }
   ],
   "hunt": [
+    {
+      "id": "1533839755564023902",
+      "type": "사냥터",
+      "title": "🏦 [ 마족 신전 ]",
+      "date": "2026-08-03",
+      "content": "🎲 드랍 정보\n\n🗃️ 컬렉션 아이템 : 난쟁이족 도끼 , 도끼 , 도리깨 , 은도끼 , 작은 활 , 전투 도끼\n\n👕 장착 아이템 : 아스테어의 단검 , 커츠의 검 , 나이트 발드의 양손검 , 악몽의 장궁 , 제로스의 지팡이 , 론드의 이도류\n\n⚗️ 재료 아이템 : 마법인형카드\n\n💰 기타 : 7500~15000 아데나 , 50~100 명예코인 , 희귀 비법서 , 영웅 비법서 , 전설 비법서 , 무기 마법 주문서 , 갑옷 마법 주문서\n\n👾 출현 몬스터 : 발록의 고문 집행자 , 발록의 문지기 , 발록의 사형 집행자 , 발록의 얼음 두더지 , 발록의 영혼술사 , 발록의 용암 뱀 , 발록의 지하 관리원",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1533839753290715328",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753290715328-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753290715328-11_.png",
+          "content_type": "image/webp",
+          "size": 2496
+        },
+        {
+          "id": "1533839753626124379",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753626124379-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753626124379-11_.png",
+          "content_type": "image/png",
+          "size": 10658
+        },
+        {
+          "id": "1533839754012131368",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754012131368-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754012131368-11_.png",
+          "content_type": "image/png",
+          "size": 9136
+        },
+        {
+          "id": "1533839754393681941",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754393681941-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754393681941-11_.png",
+          "content_type": "image/webp",
+          "size": 2486
+        },
+        {
+          "id": "1533839754741813278",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754741813278-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754741813278-11_.png",
+          "content_type": "image/webp",
+          "size": 1604
+        },
+        {
+          "id": "1533839755161239602",
+          "name": "11_.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839755161239602-11_.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839755161239602-11_.png",
+          "content_type": "image/webp",
+          "size": 2126
+        }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753290715328-11_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753626124379-11_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754012131368-11_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754393681941-11_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839754741813278-11_.png",
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839755161239602-11_.png"
+      ],
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1533839753290715328-11_.png",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1533839755564023902",
+      "created_at": "2026-08-03T23:11:35.091+09:00",
+      "updated_at": "2026-08-03T23:11:35.091+09:00"
+    },
     {
       "id": "1533836088559538357",
       "type": "사냥터",
