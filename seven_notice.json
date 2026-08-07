@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-07T17:02:18.905+09:00",
+  "updated": "2026-08-07T17:04:33.090+09:00",
   "notice": [
     {
       "id": "1534941627032928266",
@@ -499,6 +499,33 @@
     }
   ],
   "boss": [
+    {
+      "id": "1535196927426170913",
+      "type": "보스",
+      "title": "👹 [ 흑장로 ] - 01시, 13시, 15시, 17시, 23시",
+      "date": "2026-08-07",
+      "content": "👹 흑장로 (준보스)\n\n🕛 출현 시간 : 01:00, 13:00, 15:00, 17:00, 23:00\n\n📍 출현 장소 : 보스 전용 이동주문서 필요\n\n🎁 처치 보상 : 준 보스 상자 ×1\n\n━━━━━━━━━━━━━━━━━━\n📦 전체 획득\n━━━━━━━━━━━━━━━━━━\n드래곤의 최고급 다이아몬드 x3\n버프 코인 x3\n전투 강화의 주문서 x3\n군주 버프 샤이닝 x3\n군주 버프 오로라 x3\n코마 버프 x1\n신비한 날개깃털 x50\n명예코인 x50\n아데나 x100000\n준 보스의 룬 조각 x1\n\n━━━━━━━━━━━━━━━━━━\n🎲 랜덤 1종 획득\n━━━━━━━━━━━━━━━━━━\n희귀 비법서 x1\n영웅 비법서 x1\n전설 비법서 x1\n봉인된 축복주문서 x15\n명코 랜덤상자 x2\n최고급 루비 x2\n최고급 에메랄드 x2\n화룡 비늘 x2\n린드비오르의 숨결 x1\n발라카스의 숨결 x1\n안타라스의 숨결 x1\n파푸리온의 숨결 x1\n\n⚠️ '랜덤 1종 획득' 목록에서는 위 아이템 중 1종만 획득됩니다.",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1535196927451463720",
+          "name": "874eba71755ddef5.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535196927451463720-874eba71755ddef5.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535196927451463720-874eba71755ddef5.png",
+          "content_type": "image/webp",
+          "size": 8042
+        }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535196927451463720-874eba71755ddef5.png"
+      ],
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535196927451463720-874eba71755ddef5.png",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1535196927426170913",
+      "created_at": "2026-08-07T17:04:30.078+09:00",
+      "updated_at": "2026-08-07T17:04:30.078+09:00"
+    },
     {
       "id": "1535196363870965812",
       "type": "보스",
