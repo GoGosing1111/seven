@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-07T16:57:20.572+09:00",
+  "updated": "2026-08-07T16:59:08.968+09:00",
   "notice": [
     {
       "id": "1534941627032928266",
@@ -499,6 +499,33 @@
     }
   ],
   "boss": [
+    {
+      "id": "1535195567746064535",
+      "type": "보스",
+      "title": "👹 [ 커츠 ] - 18시 - 용의 계곡 던전 4층",
+      "date": "2026-08-07",
+      "content": "👹 커츠\n\n🕛 출현 시간 : 18:00\n\n📍 출현 장소 : 용의 계곡 던전 4층\n\n🎁 처치 보상 : 메인 보스 상자 ×1\n\n━━━━━━━━━━━━━━━━━━\n📦 전체 획득\n━━━━━━━━━━━━━━━━━━\n드래곤의 최고급 다이아몬드 x5\n버프 코인 x5\n전투 강화의 주문서 x5\n군주 버프 샤이닝 x5\n군주 버프 오로라 x5\n코마 버프 x1\n신비한 날개깃털 x200\n명예코인 x100\n아데나 x500000\n보스의 룬 조각 x1\n\n━━━━━━━━━━━━━━━━━━\n🎲 랜덤 1종 획득\n━━━━━━━━━━━━━━━━━━\n희귀 비법서 x1\n영웅 비법서 x1\n전설 비법서 x1\n봉인된 축복주문서 x15\n명코 랜덤상자 x2\n최고급 루비 x2\n최고급 에메랄드 x2\n화룡 비늘 x2\n린드비오르의 숨결 x1\n발라카스의 숨결 x1\n안타라스의 숨결 x1\n파푸리온의 숨결 x1\n\n⚠️ '랜덤 1종 획득' 목록에서는 위 아이템 중 1종만 획득됩니다.",
+      "author": "seven_sv_777",
+      "attachments": [
+        {
+          "id": "1535195567389413378",
+          "name": "85efa3c7c160ce21.png",
+          "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535195567389413378-85efa3c7c160ce21.png",
+          "proxy_url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535195567389413378-85efa3c7c160ce21.png",
+          "content_type": "image/webp",
+          "size": 12924
+        }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535195567389413378-85efa3c7c160ce21.png"
+      ],
+      "url": "https://raw.githubusercontent.com/GoGosing1111/seven/main/assets/cms/1535195567389413378-85efa3c7c160ce21.png",
+      "version": null,
+      "size": null,
+      "discord_message_id": "1535195567746064535",
+      "created_at": "2026-08-07T16:59:05.905+09:00",
+      "updated_at": "2026-08-07T16:59:05.905+09:00"
+    },
     {
       "id": "1535195114161573929",
       "type": "보스",
